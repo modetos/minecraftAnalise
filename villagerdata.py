@@ -38,7 +38,7 @@ def simulate_price(base_price, price_multiplier, villager_level, max_trades, vil
 
   return results
 
-# ARMORER == ARMORER == ARMORER == ARMORER == ARMORER == ARMORER == ARMORER ==
+# BASE DE DADOS
 
 all_trades = [
    {
