@@ -1,0 +1,2320 @@
+villager,level,trade,base item,buy,demand,increase,price,trade_type
+Armorer,Novice,Emerald,Coal,1,0,0,15,Player sells
+Armorer,Novice,Emerald,Coal,2,1,0,15,Player sells
+Armorer,Novice,Emerald,Coal,3,2,1,16,Player sells
+Armorer,Novice,Emerald,Coal,4,3,2,17,Player sells
+Armorer,Novice,Emerald,Coal,5,4,3,18,Player sells
+Armorer,Novice,Emerald,Coal,6,5,3,18,Player sells
+Armorer,Novice,Emerald,Coal,7,6,4,19,Player sells
+Armorer,Novice,Emerald,Coal,8,7,5,20,Player sells
+Armorer,Novice,Emerald,Coal,9,8,6,21,Player sells
+Armorer,Novice,Emerald,Coal,10,9,6,21,Player sells
+Armorer,Novice,Emerald,Coal,11,10,7,22,Player sells
+Armorer,Novice,Emerald,Coal,12,11,8,23,Player sells
+Armorer,Novice,Emerald,Coal,13,12,9,24,Player sells
+Armorer,Novice,Emerald,Coal,14,13,9,24,Player sells
+Armorer,Novice,Emerald,Coal,15,14,10,25,Player sells
+Armorer,Novice,Emerald,Coal,16,15,11,26,Player sells
+Armorer,Novice,Iron Helmet,Emerald,1,0,0,5,Player buys
+Armorer,Novice,Iron Helmet,Emerald,2,1,1,6,Player buys
+Armorer,Novice,Iron Helmet,Emerald,3,2,2,7,Player buys
+Armorer,Novice,Iron Helmet,Emerald,4,3,3,8,Player buys
+Armorer,Novice,Iron Helmet,Emerald,5,4,4,9,Player buys
+Armorer,Novice,Iron Helmet,Emerald,6,5,5,10,Player buys
+Armorer,Novice,Iron Helmet,Emerald,7,6,6,11,Player buys
+Armorer,Novice,Iron Helmet,Emerald,8,7,7,12,Player buys
+Armorer,Novice,Iron Helmet,Emerald,9,8,8,13,Player buys
+Armorer,Novice,Iron Helmet,Emerald,10,9,9,14,Player buys
+Armorer,Novice,Iron Helmet,Emerald,11,10,10,15,Player buys
+Armorer,Novice,Iron Helmet,Emerald,12,11,11,16,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,1,0,0,9,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,2,1,1,10,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,3,2,3,12,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,4,3,5,14,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,5,4,7,16,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,6,5,9,18,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,7,6,10,19,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,8,7,12,21,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,9,8,14,23,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,10,9,16,25,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,11,10,18,27,Player buys
+Armorer,Novice,Iron Chestplate,Emerald,12,11,19,28,Player buys
+Armorer,Novice,Iron Leggings,Emerald,1,0,0,7,Player buys
+Armorer,Novice,Iron Leggings,Emerald,2,1,1,8,Player buys
+Armorer,Novice,Iron Leggings,Emerald,3,2,2,9,Player buys
+Armorer,Novice,Iron Leggings,Emerald,4,3,4,11,Player buys
+Armorer,Novice,Iron Leggings,Emerald,5,4,5,12,Player buys
+Armorer,Novice,Iron Leggings,Emerald,6,5,7,14,Player buys
+Armorer,Novice,Iron Leggings,Emerald,7,6,8,15,Player buys
+Armorer,Novice,Iron Leggings,Emerald,8,7,9,16,Player buys
+Armorer,Novice,Iron Leggings,Emerald,9,8,11,18,Player buys
+Armorer,Novice,Iron Leggings,Emerald,10,9,12,19,Player buys
+Armorer,Novice,Iron Leggings,Emerald,11,10,14,21,Player buys
+Armorer,Novice,Iron Leggings,Emerald,12,11,15,22,Player buys
+Armorer,Novice,Iron Boots,Emerald,1,0,0,4,Player buys
+Armorer,Novice,Iron Boots,Emerald,2,1,0,4,Player buys
+Armorer,Novice,Iron Boots,Emerald,3,2,1,5,Player buys
+Armorer,Novice,Iron Boots,Emerald,4,3,2,6,Player buys
+Armorer,Novice,Iron Boots,Emerald,5,4,3,7,Player buys
+Armorer,Novice,Iron Boots,Emerald,6,5,4,8,Player buys
+Armorer,Novice,Iron Boots,Emerald,7,6,4,8,Player buys
+Armorer,Novice,Iron Boots,Emerald,8,7,5,9,Player buys
+Armorer,Novice,Iron Boots,Emerald,9,8,6,10,Player buys
+Armorer,Novice,Iron Boots,Emerald,10,9,7,11,Player buys
+Armorer,Novice,Iron Boots,Emerald,11,10,8,12,Player buys
+Armorer,Novice,Iron Boots,Emerald,12,11,8,12,Player buys
+Armorer,Apprentice,Emerald,Iron Ingot,1,0,0,4,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,2,1,0,4,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,3,2,0,4,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,4,3,0,4,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,5,4,0,4,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,6,5,1,5,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,7,6,1,5,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,8,7,1,5,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,9,8,1,5,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,10,9,1,5,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,11,10,2,6,Player sells
+Armorer,Apprentice,Emerald,Iron Ingot,12,11,2,6,Player sells
+Armorer,Apprentice,Chainmail Leggings,Emerald,1,0,0,3,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,2,1,0,3,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,3,2,1,4,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,4,3,1,4,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,5,4,2,5,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,6,5,3,6,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,7,6,3,6,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,8,7,4,7,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,9,8,4,7,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,10,9,5,8,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,11,10,6,9,Player buys
+Armorer,Apprentice,Chainmail Leggings,Emerald,12,11,6,9,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,1,0,0,1,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,2,1,0,1,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,3,2,0,1,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,4,3,0,1,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,5,4,0,1,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,6,5,1,2,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,7,6,1,2,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,8,7,1,2,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,9,8,1,2,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,10,9,1,2,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,11,10,2,3,Player buys
+Armorer,Apprentice,Chainmail Boots,Emerald,12,11,2,3,Player buys
+Armorer,Journeyman,Emerald,Lava Bucket,1,0,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,2,1,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,3,2,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,4,3,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,5,4,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,6,5,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,7,6,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,8,7,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,9,8,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,10,9,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,11,10,0,1,Player sells
+Armorer,Journeyman,Emerald,Lava Bucket,12,11,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,1,0,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,2,1,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,3,2,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,4,3,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,5,4,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,6,5,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,7,6,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,8,7,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,9,8,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,10,9,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,11,10,0,1,Player sells
+Armorer,Journeyman,Emerald,Diamond,12,11,0,1,Player sells
+Armorer,Journeyman,Chainmail Helmet,Emerald,1,0,0,1,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,2,1,0,1,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,3,2,0,1,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,4,3,0,1,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,5,4,0,1,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,6,5,1,2,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,7,6,1,2,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,8,7,1,2,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,9,8,1,2,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,10,9,1,2,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,11,10,2,3,Player buys
+Armorer,Journeyman,Chainmail Helmet,Emerald,12,11,2,3,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,1,0,0,4,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,2,1,0,4,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,3,2,1,5,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,4,3,2,6,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,5,4,3,7,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,6,5,4,8,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,7,6,4,8,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,8,7,5,9,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,9,8,6,10,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,10,9,7,11,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,11,10,8,12,Player buys
+Armorer,Journeyman,Chainmail Chestplate,Emerald,12,11,8,12,Player buys
+Armorer,Journeyman,Shield,Emerald,1,0,0,5,Player buys
+Armorer,Journeyman,Shield,Emerald,2,1,1,6,Player buys
+Armorer,Journeyman,Shield,Emerald,3,2,2,7,Player buys
+Armorer,Journeyman,Shield,Emerald,4,3,3,8,Player buys
+Armorer,Journeyman,Shield,Emerald,5,4,4,9,Player buys
+Armorer,Journeyman,Shield,Emerald,6,5,5,10,Player buys
+Armorer,Journeyman,Shield,Emerald,7,6,6,11,Player buys
+Armorer,Journeyman,Shield,Emerald,8,7,7,12,Player buys
+Armorer,Journeyman,Shield,Emerald,9,8,8,13,Player buys
+Armorer,Journeyman,Shield,Emerald,10,9,9,14,Player buys
+Armorer,Journeyman,Shield,Emerald,11,10,10,15,Player buys
+Armorer,Journeyman,Shield,Emerald,12,11,11,16,Player buys
+Armorer,Expert,Enchanted Diamond Leggings,Emerald,1,0,0,20,Player buys
+Armorer,Expert,Enchanted Diamond Leggings,Emerald,2,1,4,24,Player buys
+Armorer,Expert,Enchanted Diamond Leggings,Emerald,3,2,8,28,Player buys
+Armorer,Expert,Enchanted Diamond Boots,Emerald,1,0,0,21,Player buys
+Armorer,Expert,Enchanted Diamond Boots,Emerald,2,1,4,25,Player buys
+Armorer,Expert,Enchanted Diamond Boots,Emerald,3,2,8,29,Player buys
+Armorer,Master,Enchanted Diamond Helmet,Emerald,1,0,0,21,Player buys
+Armorer,Master,Enchanted Diamond Helmet,Emerald,2,1,4,25,Player buys
+Armorer,Master,Enchanted Diamond Helmet,Emerald,3,2,8,29,Player buys
+Armorer,Master,Enchanted Diamond Chestplate,Emerald,1,0,0,30,Player buys
+Armorer,Master,Enchanted Diamond Chestplate,Emerald,2,1,6,36,Player buys
+Armorer,Master,Enchanted Diamond Chestplate,Emerald,3,2,12,42,Player buys
+Butcher,Novice,Emerald,Raw Chicken,1,0,0,14,Player sells
+Butcher,Novice,Emerald,Raw Chicken,2,1,0,14,Player sells
+Butcher,Novice,Emerald,Raw Chicken,3,2,1,15,Player sells
+Butcher,Novice,Emerald,Raw Chicken,4,3,2,16,Player sells
+Butcher,Novice,Emerald,Raw Chicken,5,4,2,16,Player sells
+Butcher,Novice,Emerald,Raw Chicken,6,5,3,17,Player sells
+Butcher,Novice,Emerald,Raw Chicken,7,6,4,18,Player sells
+Butcher,Novice,Emerald,Raw Chicken,8,7,4,18,Player sells
+Butcher,Novice,Emerald,Raw Chicken,9,8,5,19,Player sells
+Butcher,Novice,Emerald,Raw Chicken,10,9,6,20,Player sells
+Butcher,Novice,Emerald,Raw Chicken,11,10,7,21,Player sells
+Butcher,Novice,Emerald,Raw Chicken,12,11,7,21,Player sells
+Butcher,Novice,Emerald,Raw Chicken,13,12,8,22,Player sells
+Butcher,Novice,Emerald,Raw Chicken,14,13,9,23,Player sells
+Butcher,Novice,Emerald,Raw Chicken,15,14,9,23,Player sells
+Butcher,Novice,Emerald,Raw Chicken,16,15,10,24,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,1,0,0,7,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,2,1,0,7,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,3,2,0,7,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,4,3,1,8,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,5,4,1,8,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,6,5,1,8,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,7,6,2,9,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,8,7,2,9,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,9,8,2,9,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,10,9,3,10,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,11,10,3,10,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,12,11,3,10,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,13,12,4,11,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,14,13,4,11,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,15,14,4,11,Player sells
+Butcher,Novice,Emerald,Raw Porkchop,16,15,5,12,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,1,0,0,4,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,2,1,0,4,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,3,2,0,4,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,4,3,0,4,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,5,4,0,4,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,6,5,1,5,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,7,6,1,5,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,8,7,1,5,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,9,8,1,5,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,10,9,1,5,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,11,10,2,6,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,12,11,2,6,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,13,12,2,6,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,14,13,2,6,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,15,14,2,6,Player sells
+Butcher,Novice,Emerald,Raw Rabbit,16,15,3,7,Player sells
+Butcher,Novice,Rabbit Stew,Emerald,1,0,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,2,1,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,3,2,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,4,3,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,5,4,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,6,5,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,7,6,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,8,7,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,9,8,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,10,9,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,11,10,0,1,Player buys
+Butcher,Novice,Rabbit Stew,Emerald,12,11,0,1,Player buys
+Butcher,Apprentice,Emerald,Coal,1,0,0,15,Player sells
+Butcher,Apprentice,Emerald,Coal,2,1,0,15,Player sells
+Butcher,Apprentice,Emerald,Coal,3,2,1,16,Player sells
+Butcher,Apprentice,Emerald,Coal,4,3,2,17,Player sells
+Butcher,Apprentice,Emerald,Coal,5,4,3,18,Player sells
+Butcher,Apprentice,Emerald,Coal,6,5,3,18,Player sells
+Butcher,Apprentice,Emerald,Coal,7,6,4,19,Player sells
+Butcher,Apprentice,Emerald,Coal,8,7,5,20,Player sells
+Butcher,Apprentice,Emerald,Coal,9,8,6,21,Player sells
+Butcher,Apprentice,Emerald,Coal,10,9,6,21,Player sells
+Butcher,Apprentice,Emerald,Coal,11,10,7,22,Player sells
+Butcher,Apprentice,Emerald,Coal,12,11,8,23,Player sells
+Butcher,Apprentice,Emerald,Coal,13,12,9,24,Player sells
+Butcher,Apprentice,Emerald,Coal,14,13,9,24,Player sells
+Butcher,Apprentice,Emerald,Coal,15,14,10,25,Player sells
+Butcher,Apprentice,Emerald,Coal,16,15,11,26,Player sells
+Butcher,Apprentice,Cooked Porkchop,Emerald,1,0,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,2,1,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,3,2,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,4,3,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,5,4,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,6,5,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,7,6,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,8,7,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,9,8,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,10,9,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,11,10,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,12,11,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,13,12,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,14,13,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,15,14,0,1,Player buys
+Butcher,Apprentice,Cooked Porkchop,Emerald,16,15,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,1,0,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,2,1,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,3,2,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,4,3,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,5,4,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,6,5,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,7,6,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,8,7,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,9,8,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,10,9,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,11,10,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,12,11,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,13,12,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,14,13,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,15,14,0,1,Player buys
+Butcher,Apprentice,Cooked Chicken,Emerald,16,15,0,1,Player buys
+Butcher,Journeyman,Emerald,Raw Mutton,1,0,0,7,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,2,1,0,7,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,3,2,0,7,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,4,3,1,8,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,5,4,1,8,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,6,5,1,8,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,7,6,2,9,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,8,7,2,9,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,9,8,2,9,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,10,9,3,10,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,11,10,3,10,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,12,11,3,10,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,13,12,4,11,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,14,13,4,11,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,15,14,4,11,Player sells
+Butcher,Journeyman,Emerald,Raw Mutton,16,15,5,12,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,1,0,0,10,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,2,1,0,10,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,3,2,1,11,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,4,3,1,11,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,5,4,2,12,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,6,5,2,12,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,7,6,3,13,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,8,7,3,13,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,9,8,4,14,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,10,9,4,14,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,11,10,5,15,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,12,11,5,15,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,13,12,6,16,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,14,13,6,16,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,15,14,7,17,Player sells
+Butcher,Journeyman,Emerald,Raw Beef,16,15,7,17,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,1,0,0,10,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,2,1,0,10,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,3,2,1,11,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,4,3,1,11,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,5,4,2,12,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,6,5,2,12,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,7,6,3,13,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,8,7,3,13,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,9,8,4,14,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,10,9,4,14,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,11,10,5,15,Player sells
+Butcher,Expert,Emerald,Dried Kelp Block,12,11,5,15,Player sells
+Butcher,Master,Emerald,Sweet Berries,1,0,0,10,Player sells
+Butcher,Master,Emerald,Sweet Berries,2,1,0,10,Player sells
+Butcher,Master,Emerald,Sweet Berries,3,2,1,11,Player sells
+Butcher,Master,Emerald,Sweet Berries,4,3,1,11,Player sells
+Butcher,Master,Emerald,Sweet Berries,5,4,2,12,Player sells
+Butcher,Master,Emerald,Sweet Berries,6,5,2,12,Player sells
+Butcher,Master,Emerald,Sweet Berries,7,6,3,13,Player sells
+Butcher,Master,Emerald,Sweet Berries,8,7,3,13,Player sells
+Butcher,Master,Emerald,Sweet Berries,9,8,4,14,Player sells
+Butcher,Master,Emerald,Sweet Berries,10,9,4,14,Player sells
+Butcher,Master,Emerald,Sweet Berries,11,10,5,15,Player sells
+Butcher,Master,Emerald,Sweet Berries,12,11,5,15,Player sells
+Cartographer,Novice,Emerald,Paper,1,0,0,24,Player sells
+Cartographer,Novice,Emerald,Paper,2,1,1,25,Player sells
+Cartographer,Novice,Emerald,Paper,3,2,2,26,Player sells
+Cartographer,Novice,Emerald,Paper,4,3,3,27,Player sells
+Cartographer,Novice,Emerald,Paper,5,4,4,28,Player sells
+Cartographer,Novice,Emerald,Paper,6,5,6,30,Player sells
+Cartographer,Novice,Emerald,Paper,7,6,7,31,Player sells
+Cartographer,Novice,Emerald,Paper,8,7,8,32,Player sells
+Cartographer,Novice,Emerald,Paper,9,8,9,33,Player sells
+Cartographer,Novice,Emerald,Paper,10,9,10,34,Player sells
+Cartographer,Novice,Emerald,Paper,11,10,12,36,Player sells
+Cartographer,Novice,Emerald,Paper,12,11,13,37,Player sells
+Cartographer,Novice,Empty Map,Emerald,1,0,0,7,Player buys
+Cartographer,Novice,Empty Map,Emerald,2,1,0,7,Player buys
+Cartographer,Novice,Empty Map,Emerald,3,2,0,7,Player buys
+Cartographer,Novice,Empty Map,Emerald,4,3,1,8,Player buys
+Cartographer,Novice,Empty Map,Emerald,5,4,1,8,Player buys
+Cartographer,Novice,Empty Map,Emerald,6,5,1,8,Player buys
+Cartographer,Novice,Empty Map,Emerald,7,6,2,9,Player buys
+Cartographer,Novice,Empty Map,Emerald,8,7,2,9,Player buys
+Cartographer,Novice,Empty Map,Emerald,9,8,2,9,Player buys
+Cartographer,Novice,Empty Map,Emerald,10,9,3,10,Player buys
+Cartographer,Novice,Empty Map,Emerald,11,10,3,10,Player buys
+Cartographer,Novice,Empty Map,Emerald,12,11,3,10,Player buys
+Cartographer,Apprentice,Emerald,Glass Pane,1,0,0,11,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,2,1,0,11,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,3,2,1,12,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,4,3,1,12,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,5,4,2,13,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,6,5,2,13,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,7,6,3,14,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,8,7,3,14,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,9,8,4,15,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,10,9,4,15,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,11,10,5,16,Player sells
+Cartographer,Apprentice,Emerald,Glass Pane,12,11,6,17,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,1,0,0,8,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,2,1,1,9,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,3,2,3,11,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,4,3,4,12,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,5,4,6,14,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,6,5,8,16,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,7,6,9,17,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,8,7,11,19,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,9,8,12,20,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,10,9,14,22,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,11,10,16,24,Player sells
+Cartographer,Apprentice,Explorer Map,Emerald + Compass,12,11,17,25,Player sells
+Cartographer,Journeyman,Emerald,Compass,1,0,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,2,1,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,3,2,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,4,3,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,5,4,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,6,5,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,7,6,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,8,7,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,9,8,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,10,9,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,11,10,0,1,Player sells
+Cartographer,Journeyman,Emerald,Compass,12,11,0,1,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,1,0,0,13,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,2,1,2,15,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,3,2,5,18,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,4,3,7,20,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,5,4,10,23,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,6,5,13,26,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,7,6,15,28,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,8,7,18,31,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,9,8,20,33,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,10,9,23,36,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,11,10,26,39,Player sells
+Cartographer,Journeyman,Ocean Explorer Map,Emerald + Compass,12,11,28,41,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,1,0,0,12,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,2,1,2,14,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,3,2,4,16,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,4,3,7,19,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,5,4,9,21,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,6,5,12,24,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,7,6,14,26,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,8,7,16,28,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,9,8,19,31,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,10,9,21,33,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,11,10,24,36,Player sells
+Cartographer,Journeyman,Trial Explorer Map,Emerald + Compass,12,11,26,38,Player sells
+Cartographer,Expert,Item Frame,Emerald,1,0,0,7,Player buys
+Cartographer,Expert,Item Frame,Emerald,2,1,0,7,Player buys
+Cartographer,Expert,Item Frame,Emerald,3,2,0,7,Player buys
+Cartographer,Expert,Item Frame,Emerald,4,3,1,8,Player buys
+Cartographer,Expert,Item Frame,Emerald,5,4,1,8,Player buys
+Cartographer,Expert,Item Frame,Emerald,6,5,1,8,Player buys
+Cartographer,Expert,Item Frame,Emerald,7,6,2,9,Player buys
+Cartographer,Expert,Item Frame,Emerald,8,7,2,9,Player buys
+Cartographer,Expert,Item Frame,Emerald,9,8,2,9,Player buys
+Cartographer,Expert,Item Frame,Emerald,10,9,3,10,Player buys
+Cartographer,Expert,Item Frame,Emerald,11,10,3,10,Player buys
+Cartographer,Expert,Item Frame,Emerald,12,11,3,10,Player buys
+Cartographer,Expert,Banner,Emerald,1,0,0,3,Player buys
+Cartographer,Expert,Banner,Emerald,2,1,0,3,Player buys
+Cartographer,Expert,Banner,Emerald,3,2,0,3,Player buys
+Cartographer,Expert,Banner,Emerald,4,3,0,3,Player buys
+Cartographer,Expert,Banner,Emerald,5,4,0,3,Player buys
+Cartographer,Expert,Banner,Emerald,6,5,0,3,Player buys
+Cartographer,Expert,Banner,Emerald,7,6,0,3,Player buys
+Cartographer,Expert,Banner,Emerald,8,7,1,4,Player buys
+Cartographer,Expert,Banner,Emerald,9,8,1,4,Player buys
+Cartographer,Expert,Banner,Emerald,10,9,1,4,Player buys
+Cartographer,Expert,Banner,Emerald,11,10,1,4,Player buys
+Cartographer,Expert,Banner,Emerald,12,11,1,4,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,1,0,0,8,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,2,1,0,8,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,3,2,0,8,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,4,3,1,9,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,5,4,1,9,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,6,5,2,10,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,7,6,2,10,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,8,7,2,10,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,9,8,3,11,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,10,9,3,11,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,11,10,4,12,Player buys
+Cartographer,Master,Globe Banner Pattern,Emerald,12,11,4,12,Player buys
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,1,0,0,14,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,2,1,2,16,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,3,2,5,19,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,4,3,8,22,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,5,4,11,25,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,6,5,14,28,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,7,6,16,30,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,8,7,19,33,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,9,8,22,36,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,10,9,25,39,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,11,10,28,42,Player sells
+Cartographer,Master,Woodland Explorer Map,Emerald + Compass,12,11,30,44,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,1,0,0,32,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,2,1,1,33,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,3,2,3,35,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,4,3,4,36,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,5,4,6,38,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,6,5,8,40,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,7,6,9,41,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,8,7,11,43,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,9,8,12,44,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,10,9,14,46,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,11,10,16,48,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,12,11,17,49,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,13,12,19,51,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,14,13,20,52,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,15,14,22,54,Player sells
+Cleric,Novice,Emerald,Rotten Flesh,16,15,24,56,Player sells
+Cleric,Novice,Redstone Dust,Emerald,1,0,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,2,1,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,3,2,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,4,3,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,5,4,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,6,5,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,7,6,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,8,7,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,9,8,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,10,9,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,11,10,0,1,Player buys
+Cleric,Novice,Redstone Dust,Emerald,12,11,0,1,Player buys
+Cleric,Apprentice,Emerald,Gold Ingot,1,0,0,3,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,2,1,0,3,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,3,2,0,3,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,4,3,0,3,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,5,4,0,3,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,6,5,0,3,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,7,6,0,3,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,8,7,1,4,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,9,8,1,4,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,10,9,1,4,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,11,10,1,4,Player sells
+Cleric,Apprentice,Emerald,Gold Ingot,12,11,1,4,Player sells
+Cleric,Apprentice,Lapis Lazuli,Emerald,1,0,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,2,1,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,3,2,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,4,3,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,5,4,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,6,5,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,7,6,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,8,7,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,9,8,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,10,9,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,11,10,0,1,Player buys
+Cleric,Apprentice,Lapis Lazuli,Emerald,12,11,0,1,Player buys
+Cleric,Journeyman,Emerald,Rabbit's Foot,1,0,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,2,1,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,3,2,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,4,3,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,5,4,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,6,5,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,7,6,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,8,7,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,9,8,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,10,9,0,2,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,11,10,1,3,Player sells
+Cleric,Journeyman,Emerald,Rabbit's Foot,12,11,1,3,Player sells
+Cleric,Journeyman,Glowstone,Emerald,1,0,0,4,Player buys
+Cleric,Journeyman,Glowstone,Emerald,2,1,0,4,Player buys
+Cleric,Journeyman,Glowstone,Emerald,3,2,0,4,Player buys
+Cleric,Journeyman,Glowstone,Emerald,4,3,0,4,Player buys
+Cleric,Journeyman,Glowstone,Emerald,5,4,0,4,Player buys
+Cleric,Journeyman,Glowstone,Emerald,6,5,1,5,Player buys
+Cleric,Journeyman,Glowstone,Emerald,7,6,1,5,Player buys
+Cleric,Journeyman,Glowstone,Emerald,8,7,1,5,Player buys
+Cleric,Journeyman,Glowstone,Emerald,9,8,1,5,Player buys
+Cleric,Journeyman,Glowstone,Emerald,10,9,1,5,Player buys
+Cleric,Journeyman,Glowstone,Emerald,11,10,2,6,Player buys
+Cleric,Journeyman,Glowstone,Emerald,12,11,2,6,Player buys
+Cleric,Expert,Emerald,Turtle Scute,1,0,0,4,Player sells
+Cleric,Expert,Emerald,Turtle Scute,2,1,0,4,Player sells
+Cleric,Expert,Emerald,Turtle Scute,3,2,0,4,Player sells
+Cleric,Expert,Emerald,Turtle Scute,4,3,0,4,Player sells
+Cleric,Expert,Emerald,Turtle Scute,5,4,0,4,Player sells
+Cleric,Expert,Emerald,Turtle Scute,6,5,1,5,Player sells
+Cleric,Expert,Emerald,Turtle Scute,7,6,1,5,Player sells
+Cleric,Expert,Emerald,Turtle Scute,8,7,1,5,Player sells
+Cleric,Expert,Emerald,Turtle Scute,9,8,1,5,Player sells
+Cleric,Expert,Emerald,Turtle Scute,10,9,1,5,Player sells
+Cleric,Expert,Emerald,Turtle Scute,11,10,2,6,Player sells
+Cleric,Expert,Emerald,Turtle Scute,12,11,2,6,Player sells
+Cleric,Expert,Emerald,Glass Bottle,1,0,0,9,Player sells
+Cleric,Expert,Emerald,Glass Bottle,2,1,0,9,Player sells
+Cleric,Expert,Emerald,Glass Bottle,3,2,0,9,Player sells
+Cleric,Expert,Emerald,Glass Bottle,4,3,1,10,Player sells
+Cleric,Expert,Emerald,Glass Bottle,5,4,1,10,Player sells
+Cleric,Expert,Emerald,Glass Bottle,6,5,2,11,Player sells
+Cleric,Expert,Emerald,Glass Bottle,7,6,2,11,Player sells
+Cleric,Expert,Emerald,Glass Bottle,8,7,3,12,Player sells
+Cleric,Expert,Emerald,Glass Bottle,9,8,3,12,Player sells
+Cleric,Expert,Emerald,Glass Bottle,10,9,4,13,Player sells
+Cleric,Expert,Emerald,Glass Bottle,11,10,4,13,Player sells
+Cleric,Expert,Emerald,Glass Bottle,12,11,4,13,Player sells
+Cleric,Expert,Ender Pearl,Emerald,1,0,0,5,Player buys
+Cleric,Expert,Ender Pearl,Emerald,2,1,0,5,Player buys
+Cleric,Expert,Ender Pearl,Emerald,3,2,0,5,Player buys
+Cleric,Expert,Ender Pearl,Emerald,4,3,0,5,Player buys
+Cleric,Expert,Ender Pearl,Emerald,5,4,1,6,Player buys
+Cleric,Expert,Ender Pearl,Emerald,6,5,1,6,Player buys
+Cleric,Expert,Ender Pearl,Emerald,7,6,1,6,Player buys
+Cleric,Expert,Ender Pearl,Emerald,8,7,1,6,Player buys
+Cleric,Expert,Ender Pearl,Emerald,9,8,2,7,Player buys
+Cleric,Expert,Ender Pearl,Emerald,10,9,2,7,Player buys
+Cleric,Expert,Ender Pearl,Emerald,11,10,2,7,Player buys
+Cleric,Expert,Ender Pearl,Emerald,12,11,2,7,Player buys
+Cleric,Master,Emerald,Nether Wart,1,0,0,22,Player sells
+Cleric,Master,Emerald,Nether Wart,2,1,1,23,Player sells
+Cleric,Master,Emerald,Nether Wart,3,2,2,24,Player sells
+Cleric,Master,Emerald,Nether Wart,4,3,3,25,Player sells
+Cleric,Master,Emerald,Nether Wart,5,4,4,26,Player sells
+Cleric,Master,Emerald,Nether Wart,6,5,5,27,Player sells
+Cleric,Master,Emerald,Nether Wart,7,6,6,28,Player sells
+Cleric,Master,Emerald,Nether Wart,8,7,7,29,Player sells
+Cleric,Master,Emerald,Nether Wart,9,8,8,30,Player sells
+Cleric,Master,Emerald,Nether Wart,10,9,9,31,Player sells
+Cleric,Master,Emerald,Nether Wart,11,10,11,33,Player sells
+Cleric,Master,Emerald,Nether Wart,12,11,12,34,Player sells
+Cleric,Master,Bottle o' Enchanting,Emerald,1,0,0,3,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,2,1,0,3,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,3,2,0,3,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,4,3,0,3,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,5,4,0,3,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,6,5,0,3,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,7,6,0,3,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,8,7,1,4,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,9,8,1,4,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,10,9,1,4,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,11,10,1,4,Player buys
+Cleric,Master,Bottle o' Enchanting,Emerald,12,11,1,4,Player buys
+Farmer,Novice,Emerald,Wheat,1,0,0,20,Player sells
+Farmer,Novice,Emerald,Wheat,2,1,1,21,Player sells
+Farmer,Novice,Emerald,Wheat,3,2,2,22,Player sells
+Farmer,Novice,Emerald,Wheat,4,3,3,23,Player sells
+Farmer,Novice,Emerald,Wheat,5,4,4,24,Player sells
+Farmer,Novice,Emerald,Wheat,6,5,5,25,Player sells
+Farmer,Novice,Emerald,Wheat,7,6,6,26,Player sells
+Farmer,Novice,Emerald,Wheat,8,7,7,27,Player sells
+Farmer,Novice,Emerald,Wheat,9,8,8,28,Player sells
+Farmer,Novice,Emerald,Wheat,10,9,9,29,Player sells
+Farmer,Novice,Emerald,Wheat,11,10,10,30,Player sells
+Farmer,Novice,Emerald,Wheat,12,11,11,31,Player sells
+Farmer,Novice,Emerald,Wheat,13,12,12,32,Player sells
+Farmer,Novice,Emerald,Wheat,14,13,13,33,Player sells
+Farmer,Novice,Emerald,Wheat,15,14,14,34,Player sells
+Farmer,Novice,Emerald,Wheat,16,15,15,35,Player sells
+Farmer,Novice,Emerald,Potato,1,0,0,26,Player sells
+Farmer,Novice,Emerald,Potato,2,1,1,27,Player sells
+Farmer,Novice,Emerald,Potato,3,2,2,28,Player sells
+Farmer,Novice,Emerald,Potato,4,3,3,29,Player sells
+Farmer,Novice,Emerald,Potato,5,4,5,31,Player sells
+Farmer,Novice,Emerald,Potato,6,5,6,32,Player sells
+Farmer,Novice,Emerald,Potato,7,6,7,33,Player sells
+Farmer,Novice,Emerald,Potato,8,7,9,35,Player sells
+Farmer,Novice,Emerald,Potato,9,8,10,36,Player sells
+Farmer,Novice,Emerald,Potato,10,9,11,37,Player sells
+Farmer,Novice,Emerald,Potato,11,10,13,39,Player sells
+Farmer,Novice,Emerald,Potato,12,11,14,40,Player sells
+Farmer,Novice,Emerald,Potato,13,12,15,41,Player sells
+Farmer,Novice,Emerald,Potato,14,13,16,42,Player sells
+Farmer,Novice,Emerald,Potato,15,14,18,44,Player sells
+Farmer,Novice,Emerald,Potato,16,15,19,45,Player sells
+Farmer,Novice,Emerald,Carrot,1,0,0,22,Player sells
+Farmer,Novice,Emerald,Carrot,2,1,1,23,Player sells
+Farmer,Novice,Emerald,Carrot,3,2,2,24,Player sells
+Farmer,Novice,Emerald,Carrot,4,3,3,25,Player sells
+Farmer,Novice,Emerald,Carrot,5,4,4,26,Player sells
+Farmer,Novice,Emerald,Carrot,6,5,5,27,Player sells
+Farmer,Novice,Emerald,Carrot,7,6,6,28,Player sells
+Farmer,Novice,Emerald,Carrot,8,7,7,29,Player sells
+Farmer,Novice,Emerald,Carrot,9,8,8,30,Player sells
+Farmer,Novice,Emerald,Carrot,10,9,9,31,Player sells
+Farmer,Novice,Emerald,Carrot,11,10,11,33,Player sells
+Farmer,Novice,Emerald,Carrot,12,11,12,34,Player sells
+Farmer,Novice,Emerald,Carrot,13,12,13,35,Player sells
+Farmer,Novice,Emerald,Carrot,14,13,14,36,Player sells
+Farmer,Novice,Emerald,Carrot,15,14,15,37,Player sells
+Farmer,Novice,Emerald,Carrot,16,15,16,38,Player sells
+Farmer,Novice,Emerald,Beetroot,1,0,0,15,Player sells
+Farmer,Novice,Emerald,Beetroot,2,1,0,15,Player sells
+Farmer,Novice,Emerald,Beetroot,3,2,1,16,Player sells
+Farmer,Novice,Emerald,Beetroot,4,3,2,17,Player sells
+Farmer,Novice,Emerald,Beetroot,5,4,3,18,Player sells
+Farmer,Novice,Emerald,Beetroot,6,5,3,18,Player sells
+Farmer,Novice,Emerald,Beetroot,7,6,4,19,Player sells
+Farmer,Novice,Emerald,Beetroot,8,7,5,20,Player sells
+Farmer,Novice,Emerald,Beetroot,9,8,6,21,Player sells
+Farmer,Novice,Emerald,Beetroot,10,9,6,21,Player sells
+Farmer,Novice,Emerald,Beetroot,11,10,7,22,Player sells
+Farmer,Novice,Emerald,Beetroot,12,11,8,23,Player sells
+Farmer,Novice,Emerald,Beetroot,13,12,9,24,Player sells
+Farmer,Novice,Emerald,Beetroot,14,13,9,24,Player sells
+Farmer,Novice,Emerald,Beetroot,15,14,10,25,Player sells
+Farmer,Novice,Emerald,Beetroot,16,15,11,26,Player sells
+Farmer,Novice,Bread,Emerald,1,0,0,1,Player buys
+Farmer,Novice,Bread,Emerald,2,1,0,1,Player buys
+Farmer,Novice,Bread,Emerald,3,2,0,1,Player buys
+Farmer,Novice,Bread,Emerald,4,3,0,1,Player buys
+Farmer,Novice,Bread,Emerald,5,4,0,1,Player buys
+Farmer,Novice,Bread,Emerald,6,5,0,1,Player buys
+Farmer,Novice,Bread,Emerald,7,6,0,1,Player buys
+Farmer,Novice,Bread,Emerald,8,7,0,1,Player buys
+Farmer,Novice,Bread,Emerald,9,8,0,1,Player buys
+Farmer,Novice,Bread,Emerald,10,9,0,1,Player buys
+Farmer,Novice,Bread,Emerald,11,10,0,1,Player buys
+Farmer,Novice,Bread,Emerald,12,11,0,1,Player buys
+Farmer,Novice,Bread,Emerald,13,12,0,1,Player buys
+Farmer,Novice,Bread,Emerald,14,13,0,1,Player buys
+Farmer,Novice,Bread,Emerald,15,14,0,1,Player buys
+Farmer,Novice,Bread,Emerald,16,15,0,1,Player buys
+Farmer,Apprentice,Emerald,Pumpkin,1,0,0,6,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,2,1,0,6,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,3,2,0,6,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,4,3,0,6,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,5,4,1,7,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,6,5,1,7,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,7,6,1,7,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,8,7,2,8,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,9,8,2,8,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,10,9,2,8,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,11,10,3,9,Player sells
+Farmer,Apprentice,Emerald,Pumpkin,12,11,3,9,Player sells
+Farmer,Apprentice,Pumpkin Pie,Emerald,1,0,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,2,1,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,3,2,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,4,3,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,5,4,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,6,5,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,7,6,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,8,7,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,9,8,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,10,9,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,11,10,0,1,Player buys
+Farmer,Apprentice,Pumpkin Pie,Emerald,12,11,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,1,0,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,2,1,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,3,2,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,4,3,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,5,4,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,6,5,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,7,6,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,8,7,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,9,8,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,10,9,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,11,10,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,12,11,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,13,12,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,14,13,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,15,14,0,1,Player buys
+Farmer,Apprentice,Apple,Emerald,16,15,0,1,Player buys
+Farmer,Journeyman,Emerald,Melon,1,0,0,4,Player sells
+Farmer,Journeyman,Emerald,Melon,2,1,0,4,Player sells
+Farmer,Journeyman,Emerald,Melon,3,2,0,4,Player sells
+Farmer,Journeyman,Emerald,Melon,4,3,0,4,Player sells
+Farmer,Journeyman,Emerald,Melon,5,4,0,4,Player sells
+Farmer,Journeyman,Emerald,Melon,6,5,1,5,Player sells
+Farmer,Journeyman,Emerald,Melon,7,6,1,5,Player sells
+Farmer,Journeyman,Emerald,Melon,8,7,1,5,Player sells
+Farmer,Journeyman,Emerald,Melon,9,8,1,5,Player sells
+Farmer,Journeyman,Emerald,Melon,10,9,1,5,Player sells
+Farmer,Journeyman,Emerald,Melon,11,10,2,6,Player sells
+Farmer,Journeyman,Emerald,Melon,12,11,2,6,Player sells
+Farmer,Journeyman,Cookie,Emerald,1,0,0,3,Player buys
+Farmer,Journeyman,Cookie,Emerald,2,1,0,3,Player buys
+Farmer,Journeyman,Cookie,Emerald,3,2,0,3,Player buys
+Farmer,Journeyman,Cookie,Emerald,4,3,0,3,Player buys
+Farmer,Journeyman,Cookie,Emerald,5,4,0,3,Player buys
+Farmer,Journeyman,Cookie,Emerald,6,5,0,3,Player buys
+Farmer,Journeyman,Cookie,Emerald,7,6,0,3,Player buys
+Farmer,Journeyman,Cookie,Emerald,8,7,1,4,Player buys
+Farmer,Journeyman,Cookie,Emerald,9,8,1,4,Player buys
+Farmer,Journeyman,Cookie,Emerald,10,9,1,4,Player buys
+Farmer,Journeyman,Cookie,Emerald,11,10,1,4,Player buys
+Farmer,Journeyman,Cookie,Emerald,12,11,1,4,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,1,0,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,2,1,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,3,2,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,4,3,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,5,4,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,6,5,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,7,6,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,8,7,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,9,8,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,10,9,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,11,10,0,1,Player buys
+Farmer,Expert,Suspicious Stew,Emerald,12,11,0,1,Player buys
+Farmer,Expert,Cake,Emerald,1,0,0,1,Player buys
+Farmer,Expert,Cake,Emerald,2,1,0,1,Player buys
+Farmer,Expert,Cake,Emerald,3,2,0,1,Player buys
+Farmer,Expert,Cake,Emerald,4,3,0,1,Player buys
+Farmer,Expert,Cake,Emerald,5,4,0,1,Player buys
+Farmer,Expert,Cake,Emerald,6,5,0,1,Player buys
+Farmer,Expert,Cake,Emerald,7,6,0,1,Player buys
+Farmer,Expert,Cake,Emerald,8,7,0,1,Player buys
+Farmer,Expert,Cake,Emerald,9,8,0,1,Player buys
+Farmer,Expert,Cake,Emerald,10,9,0,1,Player buys
+Farmer,Expert,Cake,Emerald,11,10,0,1,Player buys
+Farmer,Expert,Cake,Emerald,12,11,0,1,Player buys
+Farmer,Master,Golden Carrot,Emerald,1,0,0,3,Player buys
+Farmer,Master,Golden Carrot,Emerald,2,1,0,3,Player buys
+Farmer,Master,Golden Carrot,Emerald,3,2,0,3,Player buys
+Farmer,Master,Golden Carrot,Emerald,4,3,0,3,Player buys
+Farmer,Master,Golden Carrot,Emerald,5,4,0,3,Player buys
+Farmer,Master,Golden Carrot,Emerald,6,5,0,3,Player buys
+Farmer,Master,Golden Carrot,Emerald,7,6,0,3,Player buys
+Farmer,Master,Golden Carrot,Emerald,8,7,1,4,Player buys
+Farmer,Master,Golden Carrot,Emerald,9,8,1,4,Player buys
+Farmer,Master,Golden Carrot,Emerald,10,9,1,4,Player buys
+Farmer,Master,Golden Carrot,Emerald,11,10,1,4,Player buys
+Farmer,Master,Golden Carrot,Emerald,12,11,1,4,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,1,0,0,4,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,2,1,0,4,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,3,2,0,4,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,4,3,0,4,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,5,4,0,4,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,6,5,1,5,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,7,6,1,5,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,8,7,1,5,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,9,8,1,5,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,10,9,1,5,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,11,10,2,6,Player buys
+Farmer,Master,Glistering Melon Slice,Emerald,12,11,2,6,Player buys
+Fisherman,Novice,Emerald,String,1,0,0,20,Player sells
+Fisherman,Novice,Emerald,String,2,1,1,21,Player sells
+Fisherman,Novice,Emerald,String,3,2,2,22,Player sells
+Fisherman,Novice,Emerald,String,4,3,3,23,Player sells
+Fisherman,Novice,Emerald,String,5,4,4,24,Player sells
+Fisherman,Novice,Emerald,String,6,5,5,25,Player sells
+Fisherman,Novice,Emerald,String,7,6,6,26,Player sells
+Fisherman,Novice,Emerald,String,8,7,7,27,Player sells
+Fisherman,Novice,Emerald,String,9,8,8,28,Player sells
+Fisherman,Novice,Emerald,String,10,9,9,29,Player sells
+Fisherman,Novice,Emerald,String,11,10,10,30,Player sells
+Fisherman,Novice,Emerald,String,12,11,11,31,Player sells
+Fisherman,Novice,Emerald,String,13,12,12,32,Player sells
+Fisherman,Novice,Emerald,String,14,13,13,33,Player sells
+Fisherman,Novice,Emerald,String,15,14,14,34,Player sells
+Fisherman,Novice,Emerald,String,16,15,15,35,Player sells
+Fisherman,Novice,Emerald,Coal,1,0,0,10,Player sells
+Fisherman,Novice,Emerald,Coal,2,1,0,10,Player sells
+Fisherman,Novice,Emerald,Coal,3,2,1,11,Player sells
+Fisherman,Novice,Emerald,Coal,4,3,1,11,Player sells
+Fisherman,Novice,Emerald,Coal,5,4,2,12,Player sells
+Fisherman,Novice,Emerald,Coal,6,5,2,12,Player sells
+Fisherman,Novice,Emerald,Coal,7,6,3,13,Player sells
+Fisherman,Novice,Emerald,Coal,8,7,3,13,Player sells
+Fisherman,Novice,Emerald,Coal,9,8,4,14,Player sells
+Fisherman,Novice,Emerald,Coal,10,9,4,14,Player sells
+Fisherman,Novice,Emerald,Coal,11,10,5,15,Player sells
+Fisherman,Novice,Emerald,Coal,12,11,5,15,Player sells
+Fisherman,Novice,Emerald,Coal,13,12,6,16,Player sells
+Fisherman,Novice,Emerald,Coal,14,13,6,16,Player sells
+Fisherman,Novice,Emerald,Coal,15,14,7,17,Player sells
+Fisherman,Novice,Emerald,Coal,16,15,7,17,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,1,0,0,6,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,2,1,0,6,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,3,2,0,6,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,4,3,0,6,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,5,4,1,7,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,6,5,1,7,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,7,6,1,7,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,8,7,2,8,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,9,8,2,8,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,10,9,2,8,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,11,10,3,9,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,12,11,3,9,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,13,12,3,9,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,14,13,3,9,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,15,14,4,10,Player sells
+Fisherman,Novice,Cooked Cod,Raw Cod + Emerald,16,15,4,10,Player sells
+Fisherman,Novice,Bucket of Cod,Emerald,1,0,0,3,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,2,1,0,3,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,3,2,0,3,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,4,3,0,3,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,5,4,0,3,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,6,5,0,3,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,7,6,0,3,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,8,7,1,4,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,9,8,1,4,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,10,9,1,4,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,11,10,1,4,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,12,11,1,4,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,13,12,1,4,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,14,13,1,4,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,15,14,2,5,Player buys
+Fisherman,Novice,Bucket of Cod,Emerald,16,15,2,5,Player buys
+Fisherman,Apprentice,Emerald,Raw Cod,1,0,0,15,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,2,1,0,15,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,3,2,1,16,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,4,3,2,17,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,5,4,3,18,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,6,5,3,18,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,7,6,4,19,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,8,7,5,20,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,9,8,6,21,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,10,9,6,21,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,11,10,7,22,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,12,11,8,23,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,13,12,9,24,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,14,13,9,24,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,15,14,10,25,Player sells
+Fisherman,Apprentice,Emerald,Raw Cod,16,15,11,26,Player sells
+Fisherman,Apprentice,Campfire,Emerald,1,0,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,2,1,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,3,2,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,4,3,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,5,4,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,6,5,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,7,6,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,8,7,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,9,8,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,10,9,0,2,Player buys
+Fisherman,Apprentice,Campfire,Emerald,11,10,1,3,Player buys
+Fisherman,Apprentice,Campfire,Emerald,12,11,1,3,Player buys
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,1,0,0,6,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,2,1,0,6,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,3,2,0,6,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,4,3,0,6,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,5,4,1,7,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,6,5,1,7,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,7,6,1,7,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,8,7,2,8,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,9,8,2,8,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,10,9,2,8,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,11,10,3,9,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,12,11,3,9,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,13,12,3,9,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,14,13,3,9,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,15,14,4,10,Player sells
+Fisherman,Apprentice,Cooked Salmon,Raw Salmon + Emerald,16,15,4,10,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,1,0,0,13,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,2,1,0,13,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,3,2,1,14,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,4,3,1,14,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,5,4,2,15,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,6,5,3,16,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,7,6,3,16,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,8,7,4,17,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,9,8,5,18,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,10,9,5,18,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,11,10,6,19,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,12,11,7,20,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,13,12,7,20,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,14,13,8,21,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,15,14,9,22,Player sells
+Fisherman,Journeyman,Emerald,Raw Salmon,16,15,9,22,Player sells
+Fisherman,Journeyman,Enchanted Fishing Rod,Emerald,1,0,0,16,Player buys
+Fisherman,Journeyman,Enchanted Fishing Rod,Emerald,2,1,3,19,Player buys
+Fisherman,Journeyman,Enchanted Fishing Rod,Emerald,3,2,6,22,Player buys
+Fisherman,Expert,Emerald,Tropical Fish,1,0,0,6,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,2,1,0,6,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,3,2,0,6,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,4,3,0,6,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,5,4,1,7,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,6,5,1,7,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,7,6,1,7,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,8,7,2,8,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,9,8,2,8,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,10,9,2,8,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,11,10,3,9,Player sells
+Fisherman,Expert,Emerald,Tropical Fish,12,11,3,9,Player sells
+Fisherman,Master,Emerald,Pufferfish,1,0,0,4,Player sells
+Fisherman,Master,Emerald,Pufferfish,2,1,0,4,Player sells
+Fisherman,Master,Emerald,Pufferfish,3,2,0,4,Player sells
+Fisherman,Master,Emerald,Pufferfish,4,3,0,4,Player sells
+Fisherman,Master,Emerald,Pufferfish,5,4,0,4,Player sells
+Fisherman,Master,Emerald,Pufferfish,6,5,1,5,Player sells
+Fisherman,Master,Emerald,Pufferfish,7,6,1,5,Player sells
+Fisherman,Master,Emerald,Pufferfish,8,7,1,5,Player sells
+Fisherman,Master,Emerald,Pufferfish,9,8,1,5,Player sells
+Fisherman,Master,Emerald,Pufferfish,10,9,1,5,Player sells
+Fisherman,Master,Emerald,Pufferfish,11,10,2,6,Player sells
+Fisherman,Master,Emerald,Pufferfish,12,11,2,6,Player sells
+Fisherman,Master,Emerald,Oak Boat,1,0,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,2,1,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,3,2,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,4,3,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,5,4,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,6,5,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,7,6,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,8,7,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,9,8,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,10,9,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,11,10,0,1,Player sells
+Fisherman,Master,Emerald,Oak Boat,12,11,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,1,0,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,2,1,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,3,2,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,4,3,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,5,4,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,6,5,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,7,6,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,8,7,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,9,8,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,10,9,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,11,10,0,1,Player sells
+Fisherman,Master,Emerald,Spruce Boat,12,11,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,1,0,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,2,1,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,3,2,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,4,3,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,5,4,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,6,5,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,7,6,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,8,7,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,9,8,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,10,9,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,11,10,0,1,Player sells
+Fisherman,Master,Emerald,Jungle Boat,12,11,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,1,0,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,2,1,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,3,2,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,4,3,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,5,4,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,6,5,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,7,6,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,8,7,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,9,8,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,10,9,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,11,10,0,1,Player sells
+Fisherman,Master,Emerald,Acacia Boat,12,11,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,1,0,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,2,1,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,3,2,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,4,3,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,5,4,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,6,5,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,7,6,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,8,7,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,9,8,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,10,9,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,11,10,0,1,Player sells
+Fisherman,Master,Emerald,Dark Oak Boat,12,11,0,1,Player sells
+Fletcher,Novice,Emerald,Stick,1,0,0,32,Player sells
+Fletcher,Novice,Emerald,Stick,2,1,1,33,Player sells
+Fletcher,Novice,Emerald,Stick,3,2,3,35,Player sells
+Fletcher,Novice,Emerald,Stick,4,3,4,36,Player sells
+Fletcher,Novice,Emerald,Stick,5,4,6,38,Player sells
+Fletcher,Novice,Emerald,Stick,6,5,8,40,Player sells
+Fletcher,Novice,Emerald,Stick,7,6,9,41,Player sells
+Fletcher,Novice,Emerald,Stick,8,7,11,43,Player sells
+Fletcher,Novice,Emerald,Stick,9,8,12,44,Player sells
+Fletcher,Novice,Emerald,Stick,10,9,14,46,Player sells
+Fletcher,Novice,Emerald,Stick,11,10,16,48,Player sells
+Fletcher,Novice,Emerald,Stick,12,11,17,49,Player sells
+Fletcher,Novice,Emerald,Stick,13,12,19,51,Player sells
+Fletcher,Novice,Emerald,Stick,14,13,20,52,Player sells
+Fletcher,Novice,Emerald,Stick,15,14,22,54,Player sells
+Fletcher,Novice,Emerald,Stick,16,15,24,56,Player sells
+Fletcher,Novice,Arrow,Emerald,1,0,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,2,1,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,3,2,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,4,3,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,5,4,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,6,5,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,7,6,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,8,7,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,9,8,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,10,9,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,11,10,0,1,Player buys
+Fletcher,Novice,Arrow,Emerald,12,11,0,1,Player buys
+Fletcher,Novice,Flint,Emerald + Gravel,1,0,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,2,1,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,3,2,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,4,3,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,5,4,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,6,5,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,7,6,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,8,7,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,9,8,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,10,9,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,11,10,0,1,Player sells
+Fletcher,Novice,Flint,Emerald + Gravel,12,11,0,1,Player sells
+Fletcher,Apprentice,Emerald,Flint,1,0,0,26,Player sells
+Fletcher,Apprentice,Emerald,Flint,2,1,1,27,Player sells
+Fletcher,Apprentice,Emerald,Flint,3,2,2,28,Player sells
+Fletcher,Apprentice,Emerald,Flint,4,3,3,29,Player sells
+Fletcher,Apprentice,Emerald,Flint,5,4,5,31,Player sells
+Fletcher,Apprentice,Emerald,Flint,6,5,6,32,Player sells
+Fletcher,Apprentice,Emerald,Flint,7,6,7,33,Player sells
+Fletcher,Apprentice,Emerald,Flint,8,7,9,35,Player sells
+Fletcher,Apprentice,Emerald,Flint,9,8,10,36,Player sells
+Fletcher,Apprentice,Emerald,Flint,10,9,11,37,Player sells
+Fletcher,Apprentice,Emerald,Flint,11,10,13,39,Player sells
+Fletcher,Apprentice,Emerald,Flint,12,11,14,40,Player sells
+Fletcher,Apprentice,Bow,Emerald,1,0,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,2,1,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,3,2,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,4,3,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,5,4,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,6,5,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,7,6,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,8,7,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,9,8,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,10,9,0,2,Player buys
+Fletcher,Apprentice,Bow,Emerald,11,10,1,3,Player buys
+Fletcher,Apprentice,Bow,Emerald,12,11,1,3,Player buys
+Fletcher,Journeyman,Emerald,String,1,0,0,14,Player sells
+Fletcher,Journeyman,Emerald,String,2,1,0,14,Player sells
+Fletcher,Journeyman,Emerald,String,3,2,1,15,Player sells
+Fletcher,Journeyman,Emerald,String,4,3,2,16,Player sells
+Fletcher,Journeyman,Emerald,String,5,4,2,16,Player sells
+Fletcher,Journeyman,Emerald,String,6,5,3,17,Player sells
+Fletcher,Journeyman,Emerald,String,7,6,4,18,Player sells
+Fletcher,Journeyman,Emerald,String,8,7,4,18,Player sells
+Fletcher,Journeyman,Emerald,String,9,8,5,19,Player sells
+Fletcher,Journeyman,Emerald,String,10,9,6,20,Player sells
+Fletcher,Journeyman,Emerald,String,11,10,7,21,Player sells
+Fletcher,Journeyman,Emerald,String,12,11,7,21,Player sells
+Fletcher,Journeyman,Emerald,String,13,12,8,22,Player sells
+Fletcher,Journeyman,Emerald,String,14,13,9,23,Player sells
+Fletcher,Journeyman,Emerald,String,15,14,9,23,Player sells
+Fletcher,Journeyman,Emerald,String,16,15,10,24,Player sells
+Fletcher,Journeyman,Crossbow,Emerald,1,0,0,3,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,2,1,0,3,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,3,2,0,3,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,4,3,0,3,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,5,4,0,3,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,6,5,0,3,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,7,6,0,3,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,8,7,1,4,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,9,8,1,4,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,10,9,1,4,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,11,10,1,4,Player buys
+Fletcher,Journeyman,Crossbow,Emerald,12,11,1,4,Player buys
+Fletcher,Expert,Emerald,Feather,1,0,0,24,Player sells
+Fletcher,Expert,Emerald,Feather,2,1,1,25,Player sells
+Fletcher,Expert,Emerald,Feather,3,2,2,26,Player sells
+Fletcher,Expert,Emerald,Feather,4,3,3,27,Player sells
+Fletcher,Expert,Emerald,Feather,5,4,4,28,Player sells
+Fletcher,Expert,Emerald,Feather,6,5,6,30,Player sells
+Fletcher,Expert,Emerald,Feather,7,6,7,31,Player sells
+Fletcher,Expert,Emerald,Feather,8,7,8,32,Player sells
+Fletcher,Expert,Emerald,Feather,9,8,9,33,Player sells
+Fletcher,Expert,Emerald,Feather,10,9,10,34,Player sells
+Fletcher,Expert,Emerald,Feather,11,10,12,36,Player sells
+Fletcher,Expert,Emerald,Feather,12,11,13,37,Player sells
+Fletcher,Expert,Emerald,Feather,13,12,14,38,Player sells
+Fletcher,Expert,Emerald,Feather,14,13,15,39,Player sells
+Fletcher,Expert,Emerald,Feather,15,14,16,40,Player sells
+Fletcher,Expert,Emerald,Feather,16,15,18,42,Player sells
+Fletcher,Expert,Enchanted Bow,Emerald,1,0,0,7,Player buys
+Fletcher,Expert,Enchanted Bow,Emerald,2,1,0,7,Player buys
+Fletcher,Expert,Enchanted Bow,Emerald,3,2,0,7,Player buys
+Fletcher,Master,Emerald,Tripwire Hook,1,0,0,8,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,2,1,0,8,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,3,2,0,8,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,4,3,1,9,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,5,4,1,9,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,6,5,2,10,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,7,6,2,10,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,8,7,2,10,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,9,8,3,11,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,10,9,3,11,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,11,10,4,12,Player sells
+Fletcher,Master,Emerald,Tripwire Hook,12,11,4,12,Player sells
+Fletcher,Master,Enchanted Crossbow,Emerald,1,0,0,8,Player buys
+Fletcher,Master,Enchanted Crossbow,Emerald,2,1,0,8,Player buys
+Fletcher,Master,Enchanted Crossbow,Emerald,3,2,0,8,Player buys
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,1,0,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,2,1,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,3,2,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,4,3,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,5,4,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,6,5,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,7,6,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,8,7,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,9,8,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,10,9,0,2,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,11,10,1,3,Player sells
+Fletcher,Master,Tipped Arrow,Emerald + Arrow,12,11,1,3,Player sells
+Leatherworker,Novice,Emerald,Leather,1,0,0,6,Player sells
+Leatherworker,Novice,Emerald,Leather,2,1,0,6,Player sells
+Leatherworker,Novice,Emerald,Leather,3,2,0,6,Player sells
+Leatherworker,Novice,Emerald,Leather,4,3,0,6,Player sells
+Leatherworker,Novice,Emerald,Leather,5,4,1,7,Player sells
+Leatherworker,Novice,Emerald,Leather,6,5,1,7,Player sells
+Leatherworker,Novice,Emerald,Leather,7,6,1,7,Player sells
+Leatherworker,Novice,Emerald,Leather,8,7,2,8,Player sells
+Leatherworker,Novice,Emerald,Leather,9,8,2,8,Player sells
+Leatherworker,Novice,Emerald,Leather,10,9,2,8,Player sells
+Leatherworker,Novice,Emerald,Leather,11,10,3,9,Player sells
+Leatherworker,Novice,Emerald,Leather,12,11,3,9,Player sells
+Leatherworker,Novice,Emerald,Leather,13,12,3,9,Player sells
+Leatherworker,Novice,Emerald,Leather,14,13,3,9,Player sells
+Leatherworker,Novice,Emerald,Leather,15,14,4,10,Player sells
+Leatherworker,Novice,Emerald,Leather,16,15,4,10,Player sells
+Leatherworker,Novice,Leather Pants,Emerald,1,0,0,3,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,2,1,0,3,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,3,2,1,4,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,4,3,1,4,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,5,4,2,5,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,6,5,3,6,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,7,6,3,6,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,8,7,4,7,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,9,8,4,7,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,10,9,5,8,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,11,10,6,9,Player buys
+Leatherworker,Novice,Leather Pants,Emerald,12,11,6,9,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,1,0,0,7,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,2,1,1,8,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,3,2,2,9,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,4,3,4,11,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,5,4,5,12,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,6,5,7,14,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,7,6,8,15,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,8,7,9,16,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,9,8,11,18,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,10,9,12,19,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,11,10,14,21,Player buys
+Leatherworker,Novice,Leather Tunic,Emerald,12,11,15,22,Player buys
+Leatherworker,Apprentice,Emerald,Flint,1,0,0,26,Player sells
+Leatherworker,Apprentice,Emerald,Flint,2,1,1,27,Player sells
+Leatherworker,Apprentice,Emerald,Flint,3,2,2,28,Player sells
+Leatherworker,Apprentice,Emerald,Flint,4,3,3,29,Player sells
+Leatherworker,Apprentice,Emerald,Flint,5,4,5,31,Player sells
+Leatherworker,Apprentice,Emerald,Flint,6,5,6,32,Player sells
+Leatherworker,Apprentice,Emerald,Flint,7,6,7,33,Player sells
+Leatherworker,Apprentice,Emerald,Flint,8,7,9,35,Player sells
+Leatherworker,Apprentice,Emerald,Flint,9,8,10,36,Player sells
+Leatherworker,Apprentice,Emerald,Flint,10,9,11,37,Player sells
+Leatherworker,Apprentice,Emerald,Flint,11,10,13,39,Player sells
+Leatherworker,Apprentice,Emerald,Flint,12,11,14,40,Player sells
+Leatherworker,Apprentice,Leather Cap,Emerald,1,0,0,5,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,2,1,1,6,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,3,2,2,7,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,4,3,3,8,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,5,4,4,9,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,6,5,5,10,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,7,6,6,11,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,8,7,7,12,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,9,8,8,13,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,10,9,9,14,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,11,10,10,15,Player buys
+Leatherworker,Apprentice,Leather Cap,Emerald,12,11,11,16,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,1,0,0,4,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,2,1,0,4,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,3,2,1,5,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,4,3,2,6,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,5,4,3,7,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,6,5,4,8,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,7,6,4,8,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,8,7,5,9,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,9,8,6,10,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,10,9,7,11,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,11,10,8,12,Player buys
+Leatherworker,Apprentice,Leather Boots,Emerald,12,11,8,12,Player buys
+Leatherworker,Journeyman,Emerald,Rabbit Hide,1,0,0,9,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,2,1,0,9,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,3,2,0,9,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,4,3,1,10,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,5,4,1,10,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,6,5,2,11,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,7,6,2,11,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,8,7,3,12,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,9,8,3,12,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,10,9,4,13,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,11,10,4,13,Player sells
+Leatherworker,Journeyman,Emerald,Rabbit Hide,12,11,4,13,Player sells
+Leatherworker,Journeyman,Leather Tunic,Emerald,1,0,0,7,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,2,1,1,8,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,3,2,2,9,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,4,3,4,11,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,5,4,5,12,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,6,5,7,14,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,7,6,8,15,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,8,7,9,16,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,9,8,11,18,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,10,9,12,19,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,11,10,14,21,Player buys
+Leatherworker,Journeyman,Leather Tunic,Emerald,12,11,15,22,Player buys
+Leatherworker,Expert,Emerald,Turtle Scute,1,0,0,4,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,2,1,0,4,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,3,2,0,4,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,4,3,0,4,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,5,4,0,4,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,6,5,1,5,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,7,6,1,5,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,8,7,1,5,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,9,8,1,5,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,10,9,1,5,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,11,10,2,6,Player sells
+Leatherworker,Expert,Emerald,Turtle Scute,12,11,2,6,Player sells
+Leatherworker,Expert,Leather Horse Armor,Emerald,1,0,0,6,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,2,1,1,7,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,3,2,2,8,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,4,3,3,9,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,5,4,4,10,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,6,5,6,12,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,7,6,7,13,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,8,7,8,14,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,9,8,9,15,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,10,9,10,16,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,11,10,12,18,Player buys
+Leatherworker,Expert,Leather Horse Armor,Emerald,12,11,13,19,Player buys
+Leatherworker,Master,Leather Cap,Emerald,1,0,0,5,Player buys
+Leatherworker,Master,Leather Cap,Emerald,2,1,1,6,Player buys
+Leatherworker,Master,Leather Cap,Emerald,3,2,2,7,Player buys
+Leatherworker,Master,Leather Cap,Emerald,4,3,3,8,Player buys
+Leatherworker,Master,Leather Cap,Emerald,5,4,4,9,Player buys
+Leatherworker,Master,Leather Cap,Emerald,6,5,5,10,Player buys
+Leatherworker,Master,Leather Cap,Emerald,7,6,6,11,Player buys
+Leatherworker,Master,Leather Cap,Emerald,8,7,7,12,Player buys
+Leatherworker,Master,Leather Cap,Emerald,9,8,8,13,Player buys
+Leatherworker,Master,Leather Cap,Emerald,10,9,9,14,Player buys
+Leatherworker,Master,Leather Cap,Emerald,11,10,10,15,Player buys
+Leatherworker,Master,Leather Cap,Emerald,12,11,11,16,Player buys
+Leatherworker,Master,Saddle,Emerald,1,0,0,6,Player buys
+Leatherworker,Master,Saddle,Emerald,2,1,1,7,Player buys
+Leatherworker,Master,Saddle,Emerald,3,2,2,8,Player buys
+Leatherworker,Master,Saddle,Emerald,4,3,3,9,Player buys
+Leatherworker,Master,Saddle,Emerald,5,4,4,10,Player buys
+Leatherworker,Master,Saddle,Emerald,6,5,6,12,Player buys
+Leatherworker,Master,Saddle,Emerald,7,6,7,13,Player buys
+Leatherworker,Master,Saddle,Emerald,8,7,8,14,Player buys
+Leatherworker,Master,Saddle,Emerald,9,8,9,15,Player buys
+Leatherworker,Master,Saddle,Emerald,10,9,10,16,Player buys
+Leatherworker,Master,Saddle,Emerald,11,10,12,18,Player buys
+Leatherworker,Master,Saddle,Emerald,12,11,13,19,Player buys
+Librarian,Novice,Emerald,Paper,1,0,0,24,Player sells
+Librarian,Novice,Emerald,Paper,2,1,1,25,Player sells
+Librarian,Novice,Emerald,Paper,3,2,2,26,Player sells
+Librarian,Novice,Emerald,Paper,4,3,3,27,Player sells
+Librarian,Novice,Emerald,Paper,5,4,4,28,Player sells
+Librarian,Novice,Emerald,Paper,6,5,6,30,Player sells
+Librarian,Novice,Emerald,Paper,7,6,7,31,Player sells
+Librarian,Novice,Emerald,Paper,8,7,8,32,Player sells
+Librarian,Novice,Emerald,Paper,9,8,9,33,Player sells
+Librarian,Novice,Emerald,Paper,10,9,10,34,Player sells
+Librarian,Novice,Emerald,Paper,11,10,12,36,Player sells
+Librarian,Novice,Emerald,Paper,12,11,13,37,Player sells
+Librarian,Novice,Emerald,Paper,13,12,14,38,Player sells
+Librarian,Novice,Emerald,Paper,14,13,15,39,Player sells
+Librarian,Novice,Emerald,Paper,15,14,16,40,Player sells
+Librarian,Novice,Emerald,Paper,16,15,18,42,Player sells
+Librarian,Novice,Bookshelf,Emerald,1,0,0,9,Player buys
+Librarian,Novice,Bookshelf,Emerald,2,1,0,9,Player buys
+Librarian,Novice,Bookshelf,Emerald,3,2,0,9,Player buys
+Librarian,Novice,Bookshelf,Emerald,4,3,1,10,Player buys
+Librarian,Novice,Bookshelf,Emerald,5,4,1,10,Player buys
+Librarian,Novice,Bookshelf,Emerald,6,5,2,11,Player buys
+Librarian,Novice,Bookshelf,Emerald,7,6,2,11,Player buys
+Librarian,Novice,Bookshelf,Emerald,8,7,3,12,Player buys
+Librarian,Novice,Bookshelf,Emerald,9,8,3,12,Player buys
+Librarian,Novice,Bookshelf,Emerald,10,9,4,13,Player buys
+Librarian,Novice,Bookshelf,Emerald,11,10,4,13,Player buys
+Librarian,Novice,Bookshelf,Emerald,12,11,4,13,Player buys
+Librarian,Novice,Enchanted Book,Emerald + Book,1,0,0,35,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,2,1,7,42,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,3,2,14,49,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,4,3,21,56,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,5,4,28,63,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,6,5,35,70,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,7,6,42,77,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,8,7,49,84,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,9,8,56,91,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,10,9,63,98,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,11,10,70,105,Player sells
+Librarian,Novice,Enchanted Book,Emerald + Book,12,11,77,112,Player sells
+Librarian,Apprentice,Emerald,Book,1,0,0,4,Player sells
+Librarian,Apprentice,Emerald,Book,2,1,0,4,Player sells
+Librarian,Apprentice,Emerald,Book,3,2,0,4,Player sells
+Librarian,Apprentice,Emerald,Book,4,3,0,4,Player sells
+Librarian,Apprentice,Emerald,Book,5,4,0,4,Player sells
+Librarian,Apprentice,Emerald,Book,6,5,1,5,Player sells
+Librarian,Apprentice,Emerald,Book,7,6,1,5,Player sells
+Librarian,Apprentice,Emerald,Book,8,7,1,5,Player sells
+Librarian,Apprentice,Emerald,Book,9,8,1,5,Player sells
+Librarian,Apprentice,Emerald,Book,10,9,1,5,Player sells
+Librarian,Apprentice,Emerald,Book,11,10,2,6,Player sells
+Librarian,Apprentice,Emerald,Book,12,11,2,6,Player sells
+Librarian,Apprentice,Lantern,Emerald,1,0,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,2,1,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,3,2,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,4,3,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,5,4,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,6,5,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,7,6,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,8,7,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,9,8,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,10,9,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,11,10,0,1,Player buys
+Librarian,Apprentice,Lantern,Emerald,12,11,0,1,Player buys
+Librarian,Apprentice,Enchanted Book,Emerald + Book,1,0,0,35,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,2,1,7,42,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,3,2,14,49,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,4,3,21,56,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,5,4,28,63,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,6,5,35,70,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,7,6,42,77,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,8,7,49,84,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,9,8,56,91,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,10,9,63,98,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,11,10,70,105,Player sells
+Librarian,Apprentice,Enchanted Book,Emerald + Book,12,11,77,112,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,1,0,0,5,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,2,1,0,5,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,3,2,0,5,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,4,3,0,5,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,5,4,1,6,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,6,5,1,6,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,7,6,1,6,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,8,7,1,6,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,9,8,2,7,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,10,9,2,7,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,11,10,2,7,Player sells
+Librarian,Journeyman,Emerald,Ink Sac,12,11,2,7,Player sells
+Librarian,Journeyman,Glass,Emerald,1,0,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,2,1,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,3,2,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,4,3,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,5,4,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,6,5,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,7,6,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,8,7,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,9,8,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,10,9,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,11,10,0,1,Player buys
+Librarian,Journeyman,Glass,Emerald,12,11,0,1,Player buys
+Librarian,Journeyman,Enchanted Book,Emerald + Book,1,0,0,35,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,2,1,7,42,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,3,2,14,49,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,4,3,21,56,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,5,4,28,63,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,6,5,35,70,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,7,6,42,77,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,8,7,49,84,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,9,8,56,91,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,10,9,63,98,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,11,10,70,105,Player sells
+Librarian,Journeyman,Enchanted Book,Emerald + Book,12,11,77,112,Player sells
+Librarian,Expert,Emerald,Book and Quill,1,0,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,2,1,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,3,2,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,4,3,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,5,4,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,6,5,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,7,6,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,8,7,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,9,8,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,10,9,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,11,10,0,1,Player sells
+Librarian,Expert,Emerald,Book and Quill,12,11,0,1,Player sells
+Librarian,Expert,Compass,Emerald,1,0,0,4,Player buys
+Librarian,Expert,Compass,Emerald,2,1,0,4,Player buys
+Librarian,Expert,Compass,Emerald,3,2,0,4,Player buys
+Librarian,Expert,Compass,Emerald,4,3,0,4,Player buys
+Librarian,Expert,Compass,Emerald,5,4,0,4,Player buys
+Librarian,Expert,Compass,Emerald,6,5,1,5,Player buys
+Librarian,Expert,Compass,Emerald,7,6,1,5,Player buys
+Librarian,Expert,Compass,Emerald,8,7,1,5,Player buys
+Librarian,Expert,Compass,Emerald,9,8,1,5,Player buys
+Librarian,Expert,Compass,Emerald,10,9,1,5,Player buys
+Librarian,Expert,Compass,Emerald,11,10,2,6,Player buys
+Librarian,Expert,Compass,Emerald,12,11,2,6,Player buys
+Librarian,Expert,Clock,Emerald,1,0,0,5,Player buys
+Librarian,Expert,Clock,Emerald,2,1,0,5,Player buys
+Librarian,Expert,Clock,Emerald,3,2,0,5,Player buys
+Librarian,Expert,Clock,Emerald,4,3,0,5,Player buys
+Librarian,Expert,Clock,Emerald,5,4,1,6,Player buys
+Librarian,Expert,Clock,Emerald,6,5,1,6,Player buys
+Librarian,Expert,Clock,Emerald,7,6,1,6,Player buys
+Librarian,Expert,Clock,Emerald,8,7,1,6,Player buys
+Librarian,Expert,Clock,Emerald,9,8,2,7,Player buys
+Librarian,Expert,Clock,Emerald,10,9,2,7,Player buys
+Librarian,Expert,Clock,Emerald,11,10,2,7,Player buys
+Librarian,Expert,Clock,Emerald,12,11,2,7,Player buys
+Librarian,Expert,Enchanted Book,Emerald + Book,1,0,0,35,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,2,1,7,42,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,3,2,14,49,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,4,3,21,56,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,5,4,28,63,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,6,5,35,70,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,7,6,42,77,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,8,7,49,84,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,9,8,56,91,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,10,9,63,98,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,11,10,70,105,Player sells
+Librarian,Expert,Enchanted Book,Emerald + Book,12,11,77,112,Player sells
+Librarian,Master,Red Candle,Emerald,1,0,0,3,Player buys
+Librarian,Master,Red Candle,Emerald,2,1,0,3,Player buys
+Librarian,Master,Red Candle,Emerald,3,2,0,3,Player buys
+Librarian,Master,Red Candle,Emerald,4,3,0,3,Player buys
+Librarian,Master,Red Candle,Emerald,5,4,0,3,Player buys
+Librarian,Master,Red Candle,Emerald,6,5,0,3,Player buys
+Librarian,Master,Red Candle,Emerald,7,6,0,3,Player buys
+Librarian,Master,Red Candle,Emerald,8,7,1,4,Player buys
+Librarian,Master,Red Candle,Emerald,9,8,1,4,Player buys
+Librarian,Master,Red Candle,Emerald,10,9,1,4,Player buys
+Librarian,Master,Red Candle,Emerald,11,10,1,4,Player buys
+Librarian,Master,Red Candle,Emerald,12,11,1,4,Player buys
+Librarian,Master,Yellow Candle,Emerald,1,0,0,3,Player buys
+Librarian,Master,Yellow Candle,Emerald,2,1,0,3,Player buys
+Librarian,Master,Yellow Candle,Emerald,3,2,0,3,Player buys
+Librarian,Master,Yellow Candle,Emerald,4,3,0,3,Player buys
+Librarian,Master,Yellow Candle,Emerald,5,4,0,3,Player buys
+Librarian,Master,Yellow Candle,Emerald,6,5,0,3,Player buys
+Librarian,Master,Yellow Candle,Emerald,7,6,0,3,Player buys
+Librarian,Master,Yellow Candle,Emerald,8,7,1,4,Player buys
+Librarian,Master,Yellow Candle,Emerald,9,8,1,4,Player buys
+Librarian,Master,Yellow Candle,Emerald,10,9,1,4,Player buys
+Librarian,Master,Yellow Candle,Emerald,11,10,1,4,Player buys
+Librarian,Master,Yellow Candle,Emerald,12,11,1,4,Player buys
+Mason,Novice,Emerald,Clay Ball,1,0,0,10,Player sells
+Mason,Novice,Emerald,Clay Ball,2,1,0,10,Player sells
+Mason,Novice,Emerald,Clay Ball,3,2,1,11,Player sells
+Mason,Novice,Emerald,Clay Ball,4,3,1,11,Player sells
+Mason,Novice,Emerald,Clay Ball,5,4,2,12,Player sells
+Mason,Novice,Emerald,Clay Ball,6,5,2,12,Player sells
+Mason,Novice,Emerald,Clay Ball,7,6,3,13,Player sells
+Mason,Novice,Emerald,Clay Ball,8,7,3,13,Player sells
+Mason,Novice,Emerald,Clay Ball,9,8,4,14,Player sells
+Mason,Novice,Emerald,Clay Ball,10,9,4,14,Player sells
+Mason,Novice,Emerald,Clay Ball,11,10,5,15,Player sells
+Mason,Novice,Emerald,Clay Ball,12,11,5,15,Player sells
+Mason,Novice,Emerald,Clay Ball,13,12,6,16,Player sells
+Mason,Novice,Emerald,Clay Ball,14,13,6,16,Player sells
+Mason,Novice,Emerald,Clay Ball,15,14,7,17,Player sells
+Mason,Novice,Emerald,Clay Ball,16,15,7,17,Player sells
+Mason,Novice,Brick,Emerald,1,0,0,1,Player buys
+Mason,Novice,Brick,Emerald,2,1,0,1,Player buys
+Mason,Novice,Brick,Emerald,3,2,0,1,Player buys
+Mason,Novice,Brick,Emerald,4,3,0,1,Player buys
+Mason,Novice,Brick,Emerald,5,4,0,1,Player buys
+Mason,Novice,Brick,Emerald,6,5,0,1,Player buys
+Mason,Novice,Brick,Emerald,7,6,0,1,Player buys
+Mason,Novice,Brick,Emerald,8,7,0,1,Player buys
+Mason,Novice,Brick,Emerald,9,8,0,1,Player buys
+Mason,Novice,Brick,Emerald,10,9,0,1,Player buys
+Mason,Novice,Brick,Emerald,11,10,0,1,Player buys
+Mason,Novice,Brick,Emerald,12,11,0,1,Player buys
+Mason,Novice,Brick,Emerald,13,12,0,1,Player buys
+Mason,Novice,Brick,Emerald,14,13,0,1,Player buys
+Mason,Novice,Brick,Emerald,15,14,0,1,Player buys
+Mason,Novice,Brick,Emerald,16,15,0,1,Player buys
+Mason,Apprentice,Emerald,Stone,1,0,0,20,Player sells
+Mason,Apprentice,Emerald,Stone,2,1,1,21,Player sells
+Mason,Apprentice,Emerald,Stone,3,2,2,22,Player sells
+Mason,Apprentice,Emerald,Stone,4,3,3,23,Player sells
+Mason,Apprentice,Emerald,Stone,5,4,4,24,Player sells
+Mason,Apprentice,Emerald,Stone,6,5,5,25,Player sells
+Mason,Apprentice,Emerald,Stone,7,6,6,26,Player sells
+Mason,Apprentice,Emerald,Stone,8,7,7,27,Player sells
+Mason,Apprentice,Emerald,Stone,9,8,8,28,Player sells
+Mason,Apprentice,Emerald,Stone,10,9,9,29,Player sells
+Mason,Apprentice,Emerald,Stone,11,10,10,30,Player sells
+Mason,Apprentice,Emerald,Stone,12,11,11,31,Player sells
+Mason,Apprentice,Emerald,Stone,13,12,12,32,Player sells
+Mason,Apprentice,Emerald,Stone,14,13,13,33,Player sells
+Mason,Apprentice,Emerald,Stone,15,14,14,34,Player sells
+Mason,Apprentice,Emerald,Stone,16,15,15,35,Player sells
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,1,0,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,2,1,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,3,2,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,4,3,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,5,4,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,6,5,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,7,6,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,8,7,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,9,8,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,10,9,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,11,10,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,12,11,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,13,12,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,14,13,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,15,14,0,1,Player buys
+Mason,Apprentice,Chiseled Stone Bricks,Emerald,16,15,0,1,Player buys
+Mason,Journeyman,Emerald,Granite,1,0,0,16,Player sells
+Mason,Journeyman,Emerald,Granite,2,1,0,16,Player sells
+Mason,Journeyman,Emerald,Granite,3,2,1,17,Player sells
+Mason,Journeyman,Emerald,Granite,4,3,2,18,Player sells
+Mason,Journeyman,Emerald,Granite,5,4,3,19,Player sells
+Mason,Journeyman,Emerald,Granite,6,5,4,20,Player sells
+Mason,Journeyman,Emerald,Granite,7,6,4,20,Player sells
+Mason,Journeyman,Emerald,Granite,8,7,5,21,Player sells
+Mason,Journeyman,Emerald,Granite,9,8,6,22,Player sells
+Mason,Journeyman,Emerald,Granite,10,9,7,23,Player sells
+Mason,Journeyman,Emerald,Granite,11,10,8,24,Player sells
+Mason,Journeyman,Emerald,Granite,12,11,8,24,Player sells
+Mason,Journeyman,Emerald,Granite,13,12,9,25,Player sells
+Mason,Journeyman,Emerald,Granite,14,13,10,26,Player sells
+Mason,Journeyman,Emerald,Granite,15,14,11,27,Player sells
+Mason,Journeyman,Emerald,Granite,16,15,12,28,Player sells
+Mason,Journeyman,Emerald,Andesite,1,0,0,16,Player sells
+Mason,Journeyman,Emerald,Andesite,2,1,0,16,Player sells
+Mason,Journeyman,Emerald,Andesite,3,2,1,17,Player sells
+Mason,Journeyman,Emerald,Andesite,4,3,2,18,Player sells
+Mason,Journeyman,Emerald,Andesite,5,4,3,19,Player sells
+Mason,Journeyman,Emerald,Andesite,6,5,4,20,Player sells
+Mason,Journeyman,Emerald,Andesite,7,6,4,20,Player sells
+Mason,Journeyman,Emerald,Andesite,8,7,5,21,Player sells
+Mason,Journeyman,Emerald,Andesite,9,8,6,22,Player sells
+Mason,Journeyman,Emerald,Andesite,10,9,7,23,Player sells
+Mason,Journeyman,Emerald,Andesite,11,10,8,24,Player sells
+Mason,Journeyman,Emerald,Andesite,12,11,8,24,Player sells
+Mason,Journeyman,Emerald,Andesite,13,12,9,25,Player sells
+Mason,Journeyman,Emerald,Andesite,14,13,10,26,Player sells
+Mason,Journeyman,Emerald,Andesite,15,14,11,27,Player sells
+Mason,Journeyman,Emerald,Andesite,16,15,12,28,Player sells
+Mason,Journeyman,Emerald,Diorite,1,0,0,16,Player sells
+Mason,Journeyman,Emerald,Diorite,2,1,0,16,Player sells
+Mason,Journeyman,Emerald,Diorite,3,2,1,17,Player sells
+Mason,Journeyman,Emerald,Diorite,4,3,2,18,Player sells
+Mason,Journeyman,Emerald,Diorite,5,4,3,19,Player sells
+Mason,Journeyman,Emerald,Diorite,6,5,4,20,Player sells
+Mason,Journeyman,Emerald,Diorite,7,6,4,20,Player sells
+Mason,Journeyman,Emerald,Diorite,8,7,5,21,Player sells
+Mason,Journeyman,Emerald,Diorite,9,8,6,22,Player sells
+Mason,Journeyman,Emerald,Diorite,10,9,7,23,Player sells
+Mason,Journeyman,Emerald,Diorite,11,10,8,24,Player sells
+Mason,Journeyman,Emerald,Diorite,12,11,8,24,Player sells
+Mason,Journeyman,Emerald,Diorite,13,12,9,25,Player sells
+Mason,Journeyman,Emerald,Diorite,14,13,10,26,Player sells
+Mason,Journeyman,Emerald,Diorite,15,14,11,27,Player sells
+Mason,Journeyman,Emerald,Diorite,16,15,12,28,Player sells
+Mason,Journeyman,Dripstone Block,Emerald,1,0,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,2,1,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,3,2,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,4,3,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,5,4,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,6,5,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,7,6,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,8,7,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,9,8,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,10,9,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,11,10,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,12,11,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,13,12,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,14,13,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,15,14,0,1,Player buys
+Mason,Journeyman,Dripstone Block,Emerald,16,15,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,1,0,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,2,1,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,3,2,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,4,3,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,5,4,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,6,5,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,7,6,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,8,7,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,9,8,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,10,9,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,11,10,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,12,11,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,13,12,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,14,13,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,15,14,0,1,Player buys
+Mason,Journeyman,Polished Andesite,Emerald,16,15,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,1,0,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,2,1,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,3,2,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,4,3,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,5,4,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,6,5,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,7,6,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,8,7,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,9,8,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,10,9,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,11,10,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,12,11,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,13,12,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,14,13,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,15,14,0,1,Player buys
+Mason,Journeyman,Polished Diorite,Emerald,16,15,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,1,0,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,2,1,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,3,2,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,4,3,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,5,4,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,6,5,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,7,6,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,8,7,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,9,8,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,10,9,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,11,10,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,12,11,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,13,12,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,14,13,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,15,14,0,1,Player buys
+Mason,Journeyman,Polished Granite,Emerald,16,15,0,1,Player buys
+Mason,Expert,Emerald,Nether Quartz,1,0,0,12,Player sells
+Mason,Expert,Emerald,Nether Quartz,2,1,0,12,Player sells
+Mason,Expert,Emerald,Nether Quartz,3,2,1,13,Player sells
+Mason,Expert,Emerald,Nether Quartz,4,3,1,13,Player sells
+Mason,Expert,Emerald,Nether Quartz,5,4,2,14,Player sells
+Mason,Expert,Emerald,Nether Quartz,6,5,3,15,Player sells
+Mason,Expert,Emerald,Nether Quartz,7,6,3,15,Player sells
+Mason,Expert,Emerald,Nether Quartz,8,7,4,16,Player sells
+Mason,Expert,Emerald,Nether Quartz,9,8,4,16,Player sells
+Mason,Expert,Emerald,Nether Quartz,10,9,5,17,Player sells
+Mason,Expert,Emerald,Nether Quartz,11,10,6,18,Player sells
+Mason,Expert,Emerald,Nether Quartz,12,11,6,18,Player sells
+Mason,Expert,Stained Terracotta,Emerald,1,0,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,2,1,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,3,2,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,4,3,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,5,4,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,6,5,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,7,6,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,8,7,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,9,8,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,10,9,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,11,10,0,1,Player buys
+Mason,Expert,Stained Terracotta,Emerald,12,11,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,1,0,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,2,1,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,3,2,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,4,3,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,5,4,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,6,5,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,7,6,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,8,7,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,9,8,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,10,9,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,11,10,0,1,Player buys
+Mason,Expert,Glazed Terracotta,Emerald,12,11,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,1,0,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,2,1,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,3,2,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,4,3,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,5,4,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,6,5,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,7,6,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,8,7,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,9,8,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,10,9,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,11,10,0,1,Player buys
+Mason,Master,Quartz Pillar,Emerald,12,11,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,1,0,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,2,1,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,3,2,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,4,3,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,5,4,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,6,5,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,7,6,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,8,7,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,9,8,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,10,9,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,11,10,0,1,Player buys
+Mason,Master,Block of Quartz,Emerald,12,11,0,1,Player buys
+Shepherd,Novice,Emerald,White Wool,1,0,0,18,Player sells
+Shepherd,Novice,Emerald,White Wool,2,1,0,18,Player sells
+Shepherd,Novice,Emerald,White Wool,3,2,1,19,Player sells
+Shepherd,Novice,Emerald,White Wool,4,3,2,20,Player sells
+Shepherd,Novice,Emerald,White Wool,5,4,3,21,Player sells
+Shepherd,Novice,Emerald,White Wool,6,5,4,22,Player sells
+Shepherd,Novice,Emerald,White Wool,7,6,5,23,Player sells
+Shepherd,Novice,Emerald,White Wool,8,7,6,24,Player sells
+Shepherd,Novice,Emerald,White Wool,9,8,7,25,Player sells
+Shepherd,Novice,Emerald,White Wool,10,9,8,26,Player sells
+Shepherd,Novice,Emerald,White Wool,11,10,9,27,Player sells
+Shepherd,Novice,Emerald,White Wool,12,11,9,27,Player sells
+Shepherd,Novice,Emerald,White Wool,13,12,10,28,Player sells
+Shepherd,Novice,Emerald,White Wool,14,13,11,29,Player sells
+Shepherd,Novice,Emerald,White Wool,15,14,12,30,Player sells
+Shepherd,Novice,Emerald,White Wool,16,15,13,31,Player sells
+Shepherd,Novice,Emerald,Brown Wool,1,0,0,18,Player sells
+Shepherd,Novice,Emerald,Brown Wool,2,1,0,18,Player sells
+Shepherd,Novice,Emerald,Brown Wool,3,2,1,19,Player sells
+Shepherd,Novice,Emerald,Brown Wool,4,3,2,20,Player sells
+Shepherd,Novice,Emerald,Brown Wool,5,4,3,21,Player sells
+Shepherd,Novice,Emerald,Brown Wool,6,5,4,22,Player sells
+Shepherd,Novice,Emerald,Brown Wool,7,6,5,23,Player sells
+Shepherd,Novice,Emerald,Brown Wool,8,7,6,24,Player sells
+Shepherd,Novice,Emerald,Brown Wool,9,8,7,25,Player sells
+Shepherd,Novice,Emerald,Brown Wool,10,9,8,26,Player sells
+Shepherd,Novice,Emerald,Brown Wool,11,10,9,27,Player sells
+Shepherd,Novice,Emerald,Brown Wool,12,11,9,27,Player sells
+Shepherd,Novice,Emerald,Brown Wool,13,12,10,28,Player sells
+Shepherd,Novice,Emerald,Brown Wool,14,13,11,29,Player sells
+Shepherd,Novice,Emerald,Brown Wool,15,14,12,30,Player sells
+Shepherd,Novice,Emerald,Brown Wool,16,15,13,31,Player sells
+Shepherd,Novice,Emerald,Black Wool,1,0,0,18,Player sells
+Shepherd,Novice,Emerald,Black Wool,2,1,0,18,Player sells
+Shepherd,Novice,Emerald,Black Wool,3,2,1,19,Player sells
+Shepherd,Novice,Emerald,Black Wool,4,3,2,20,Player sells
+Shepherd,Novice,Emerald,Black Wool,5,4,3,21,Player sells
+Shepherd,Novice,Emerald,Black Wool,6,5,4,22,Player sells
+Shepherd,Novice,Emerald,Black Wool,7,6,5,23,Player sells
+Shepherd,Novice,Emerald,Black Wool,8,7,6,24,Player sells
+Shepherd,Novice,Emerald,Black Wool,9,8,7,25,Player sells
+Shepherd,Novice,Emerald,Black Wool,10,9,8,26,Player sells
+Shepherd,Novice,Emerald,Black Wool,11,10,9,27,Player sells
+Shepherd,Novice,Emerald,Black Wool,12,11,9,27,Player sells
+Shepherd,Novice,Emerald,Black Wool,13,12,10,28,Player sells
+Shepherd,Novice,Emerald,Black Wool,14,13,11,29,Player sells
+Shepherd,Novice,Emerald,Black Wool,15,14,12,30,Player sells
+Shepherd,Novice,Emerald,Black Wool,16,15,13,31,Player sells
+Shepherd,Novice,Emerald,Gray Wool,1,0,0,18,Player sells
+Shepherd,Novice,Emerald,Gray Wool,2,1,0,18,Player sells
+Shepherd,Novice,Emerald,Gray Wool,3,2,1,19,Player sells
+Shepherd,Novice,Emerald,Gray Wool,4,3,2,20,Player sells
+Shepherd,Novice,Emerald,Gray Wool,5,4,3,21,Player sells
+Shepherd,Novice,Emerald,Gray Wool,6,5,4,22,Player sells
+Shepherd,Novice,Emerald,Gray Wool,7,6,5,23,Player sells
+Shepherd,Novice,Emerald,Gray Wool,8,7,6,24,Player sells
+Shepherd,Novice,Emerald,Gray Wool,9,8,7,25,Player sells
+Shepherd,Novice,Emerald,Gray Wool,10,9,8,26,Player sells
+Shepherd,Novice,Emerald,Gray Wool,11,10,9,27,Player sells
+Shepherd,Novice,Emerald,Gray Wool,12,11,9,27,Player sells
+Shepherd,Novice,Emerald,Gray Wool,13,12,10,28,Player sells
+Shepherd,Novice,Emerald,Gray Wool,14,13,11,29,Player sells
+Shepherd,Novice,Emerald,Gray Wool,15,14,12,30,Player sells
+Shepherd,Novice,Emerald,Gray Wool,16,15,13,31,Player sells
+Shepherd,Novice,Shears,Emerald,1,0,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,2,1,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,3,2,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,4,3,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,5,4,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,6,5,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,7,6,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,8,7,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,9,8,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,10,9,0,2,Player buys
+Shepherd,Novice,Shears,Emerald,11,10,1,3,Player buys
+Shepherd,Novice,Shears,Emerald,12,11,1,3,Player buys
+Shepherd,Apprentice,Emerald,White Dye,1,0,0,12,Player sells
+Shepherd,Apprentice,Emerald,White Dye,2,1,0,12,Player sells
+Shepherd,Apprentice,Emerald,White Dye,3,2,1,13,Player sells
+Shepherd,Apprentice,Emerald,White Dye,4,3,1,13,Player sells
+Shepherd,Apprentice,Emerald,White Dye,5,4,2,14,Player sells
+Shepherd,Apprentice,Emerald,White Dye,6,5,3,15,Player sells
+Shepherd,Apprentice,Emerald,White Dye,7,6,3,15,Player sells
+Shepherd,Apprentice,Emerald,White Dye,8,7,4,16,Player sells
+Shepherd,Apprentice,Emerald,White Dye,9,8,4,16,Player sells
+Shepherd,Apprentice,Emerald,White Dye,10,9,5,17,Player sells
+Shepherd,Apprentice,Emerald,White Dye,11,10,6,18,Player sells
+Shepherd,Apprentice,Emerald,White Dye,12,11,6,18,Player sells
+Shepherd,Apprentice,Emerald,White Dye,13,12,7,19,Player sells
+Shepherd,Apprentice,Emerald,White Dye,14,13,7,19,Player sells
+Shepherd,Apprentice,Emerald,White Dye,15,14,8,20,Player sells
+Shepherd,Apprentice,Emerald,White Dye,16,15,9,21,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,1,0,0,12,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,2,1,0,12,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,3,2,1,13,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,4,3,1,13,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,5,4,2,14,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,6,5,3,15,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,7,6,3,15,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,8,7,4,16,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,9,8,4,16,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,10,9,5,17,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,11,10,6,18,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,12,11,6,18,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,13,12,7,19,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,14,13,7,19,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,15,14,8,20,Player sells
+Shepherd,Apprentice,Emerald,Gray Dye,16,15,9,21,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,1,0,0,12,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,2,1,0,12,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,3,2,1,13,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,4,3,1,13,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,5,4,2,14,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,6,5,3,15,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,7,6,3,15,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,8,7,4,16,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,9,8,4,16,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,10,9,5,17,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,11,10,6,18,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,12,11,6,18,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,13,12,7,19,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,14,13,7,19,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,15,14,8,20,Player sells
+Shepherd,Apprentice,Emerald,Black Dye,16,15,9,21,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,1,0,0,12,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,2,1,0,12,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,3,2,1,13,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,4,3,1,13,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,5,4,2,14,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,6,5,3,15,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,7,6,3,15,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,8,7,4,16,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,9,8,4,16,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,10,9,5,17,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,11,10,6,18,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,12,11,6,18,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,13,12,7,19,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,14,13,7,19,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,15,14,8,20,Player sells
+Shepherd,Apprentice,Emerald,Light Blue Dye,16,15,9,21,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,1,0,0,12,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,2,1,0,12,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,3,2,1,13,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,4,3,1,13,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,5,4,2,14,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,6,5,3,15,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,7,6,3,15,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,8,7,4,16,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,9,8,4,16,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,10,9,5,17,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,11,10,6,18,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,12,11,6,18,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,13,12,7,19,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,14,13,7,19,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,15,14,8,20,Player sells
+Shepherd,Apprentice,Emerald,Lime Dye,16,15,9,21,Player sells
+Shepherd,Apprentice,Wool,Emerald,1,0,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,2,1,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,3,2,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,4,3,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,5,4,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,6,5,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,7,6,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,8,7,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,9,8,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,10,9,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,11,10,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,12,11,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,13,12,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,14,13,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,15,14,0,1,Player buys
+Shepherd,Apprentice,Wool,Emerald,16,15,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,1,0,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,2,1,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,3,2,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,4,3,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,5,4,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,6,5,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,7,6,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,8,7,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,9,8,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,10,9,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,11,10,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,12,11,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,13,12,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,14,13,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,15,14,0,1,Player buys
+Shepherd,Apprentice,Carpet,Emerald,16,15,0,1,Player buys
+Shepherd,Journeyman,Emerald,Yellow Dye,1,0,0,12,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,2,1,0,12,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,3,2,1,13,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,4,3,1,13,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,5,4,2,14,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,6,5,3,15,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,7,6,3,15,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,8,7,4,16,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,9,8,4,16,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,10,9,5,17,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,11,10,6,18,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,12,11,6,18,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,13,12,7,19,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,14,13,7,19,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,15,14,8,20,Player sells
+Shepherd,Journeyman,Emerald,Yellow Dye,16,15,9,21,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,1,0,0,12,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,2,1,0,12,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,3,2,1,13,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,4,3,1,13,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,5,4,2,14,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,6,5,3,15,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,7,6,3,15,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,8,7,4,16,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,9,8,4,16,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,10,9,5,17,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,11,10,6,18,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,12,11,6,18,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,13,12,7,19,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,14,13,7,19,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,15,14,8,20,Player sells
+Shepherd,Journeyman,Emerald,Light Gray Dye,16,15,9,21,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,1,0,0,12,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,2,1,0,12,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,3,2,1,13,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,4,3,1,13,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,5,4,2,14,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,6,5,3,15,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,7,6,3,15,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,8,7,4,16,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,9,8,4,16,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,10,9,5,17,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,11,10,6,18,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,12,11,6,18,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,13,12,7,19,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,14,13,7,19,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,15,14,8,20,Player sells
+Shepherd,Journeyman,Emerald,Orange Dye,16,15,9,21,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,1,0,0,12,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,2,1,0,12,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,3,2,1,13,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,4,3,1,13,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,5,4,2,14,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,6,5,3,15,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,7,6,3,15,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,8,7,4,16,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,9,8,4,16,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,10,9,5,17,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,11,10,6,18,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,12,11,6,18,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,13,12,7,19,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,14,13,7,19,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,15,14,8,20,Player sells
+Shepherd,Journeyman,Emerald,Red Dye,16,15,9,21,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,1,0,0,12,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,2,1,0,12,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,3,2,1,13,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,4,3,1,13,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,5,4,2,14,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,6,5,3,15,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,7,6,3,15,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,8,7,4,16,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,9,8,4,16,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,10,9,5,17,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,11,10,6,18,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,12,11,6,18,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,13,12,7,19,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,14,13,7,19,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,15,14,8,20,Player sells
+Shepherd,Journeyman,Emerald,Pink Dye,16,15,9,21,Player sells
+Shepherd,Journeyman,Bed,Emerald,1,0,0,3,Player buys
+Shepherd,Journeyman,Bed,Emerald,2,1,0,3,Player buys
+Shepherd,Journeyman,Bed,Emerald,3,2,0,3,Player buys
+Shepherd,Journeyman,Bed,Emerald,4,3,0,3,Player buys
+Shepherd,Journeyman,Bed,Emerald,5,4,0,3,Player buys
+Shepherd,Journeyman,Bed,Emerald,6,5,0,3,Player buys
+Shepherd,Journeyman,Bed,Emerald,7,6,0,3,Player buys
+Shepherd,Journeyman,Bed,Emerald,8,7,1,4,Player buys
+Shepherd,Journeyman,Bed,Emerald,9,8,1,4,Player buys
+Shepherd,Journeyman,Bed,Emerald,10,9,1,4,Player buys
+Shepherd,Journeyman,Bed,Emerald,11,10,1,4,Player buys
+Shepherd,Journeyman,Bed,Emerald,12,11,1,4,Player buys
+Shepherd,Expert,Emerald,Brown Dye,1,0,0,12,Player sells
+Shepherd,Expert,Emerald,Brown Dye,2,1,0,12,Player sells
+Shepherd,Expert,Emerald,Brown Dye,3,2,1,13,Player sells
+Shepherd,Expert,Emerald,Brown Dye,4,3,1,13,Player sells
+Shepherd,Expert,Emerald,Brown Dye,5,4,2,14,Player sells
+Shepherd,Expert,Emerald,Brown Dye,6,5,3,15,Player sells
+Shepherd,Expert,Emerald,Brown Dye,7,6,3,15,Player sells
+Shepherd,Expert,Emerald,Brown Dye,8,7,4,16,Player sells
+Shepherd,Expert,Emerald,Brown Dye,9,8,4,16,Player sells
+Shepherd,Expert,Emerald,Brown Dye,10,9,5,17,Player sells
+Shepherd,Expert,Emerald,Brown Dye,11,10,6,18,Player sells
+Shepherd,Expert,Emerald,Brown Dye,12,11,6,18,Player sells
+Shepherd,Expert,Emerald,Brown Dye,13,12,7,19,Player sells
+Shepherd,Expert,Emerald,Brown Dye,14,13,7,19,Player sells
+Shepherd,Expert,Emerald,Brown Dye,15,14,8,20,Player sells
+Shepherd,Expert,Emerald,Brown Dye,16,15,9,21,Player sells
+Shepherd,Expert,Emerald,Purple Dye,1,0,0,12,Player sells
+Shepherd,Expert,Emerald,Purple Dye,2,1,0,12,Player sells
+Shepherd,Expert,Emerald,Purple Dye,3,2,1,13,Player sells
+Shepherd,Expert,Emerald,Purple Dye,4,3,1,13,Player sells
+Shepherd,Expert,Emerald,Purple Dye,5,4,2,14,Player sells
+Shepherd,Expert,Emerald,Purple Dye,6,5,3,15,Player sells
+Shepherd,Expert,Emerald,Purple Dye,7,6,3,15,Player sells
+Shepherd,Expert,Emerald,Purple Dye,8,7,4,16,Player sells
+Shepherd,Expert,Emerald,Purple Dye,9,8,4,16,Player sells
+Shepherd,Expert,Emerald,Purple Dye,10,9,5,17,Player sells
+Shepherd,Expert,Emerald,Purple Dye,11,10,6,18,Player sells
+Shepherd,Expert,Emerald,Purple Dye,12,11,6,18,Player sells
+Shepherd,Expert,Emerald,Purple Dye,13,12,7,19,Player sells
+Shepherd,Expert,Emerald,Purple Dye,14,13,7,19,Player sells
+Shepherd,Expert,Emerald,Purple Dye,15,14,8,20,Player sells
+Shepherd,Expert,Emerald,Purple Dye,16,15,9,21,Player sells
+Shepherd,Expert,Emerald,Blue Dye,1,0,0,12,Player sells
+Shepherd,Expert,Emerald,Blue Dye,2,1,0,12,Player sells
+Shepherd,Expert,Emerald,Blue Dye,3,2,1,13,Player sells
+Shepherd,Expert,Emerald,Blue Dye,4,3,1,13,Player sells
+Shepherd,Expert,Emerald,Blue Dye,5,4,2,14,Player sells
+Shepherd,Expert,Emerald,Blue Dye,6,5,3,15,Player sells
+Shepherd,Expert,Emerald,Blue Dye,7,6,3,15,Player sells
+Shepherd,Expert,Emerald,Blue Dye,8,7,4,16,Player sells
+Shepherd,Expert,Emerald,Blue Dye,9,8,4,16,Player sells
+Shepherd,Expert,Emerald,Blue Dye,10,9,5,17,Player sells
+Shepherd,Expert,Emerald,Blue Dye,11,10,6,18,Player sells
+Shepherd,Expert,Emerald,Blue Dye,12,11,6,18,Player sells
+Shepherd,Expert,Emerald,Blue Dye,13,12,7,19,Player sells
+Shepherd,Expert,Emerald,Blue Dye,14,13,7,19,Player sells
+Shepherd,Expert,Emerald,Blue Dye,15,14,8,20,Player sells
+Shepherd,Expert,Emerald,Blue Dye,16,15,9,21,Player sells
+Shepherd,Expert,Emerald,Green Dye,1,0,0,12,Player sells
+Shepherd,Expert,Emerald,Green Dye,2,1,0,12,Player sells
+Shepherd,Expert,Emerald,Green Dye,3,2,1,13,Player sells
+Shepherd,Expert,Emerald,Green Dye,4,3,1,13,Player sells
+Shepherd,Expert,Emerald,Green Dye,5,4,2,14,Player sells
+Shepherd,Expert,Emerald,Green Dye,6,5,3,15,Player sells
+Shepherd,Expert,Emerald,Green Dye,7,6,3,15,Player sells
+Shepherd,Expert,Emerald,Green Dye,8,7,4,16,Player sells
+Shepherd,Expert,Emerald,Green Dye,9,8,4,16,Player sells
+Shepherd,Expert,Emerald,Green Dye,10,9,5,17,Player sells
+Shepherd,Expert,Emerald,Green Dye,11,10,6,18,Player sells
+Shepherd,Expert,Emerald,Green Dye,12,11,6,18,Player sells
+Shepherd,Expert,Emerald,Green Dye,13,12,7,19,Player sells
+Shepherd,Expert,Emerald,Green Dye,14,13,7,19,Player sells
+Shepherd,Expert,Emerald,Green Dye,15,14,8,20,Player sells
+Shepherd,Expert,Emerald,Green Dye,16,15,9,21,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,1,0,0,12,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,2,1,0,12,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,3,2,1,13,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,4,3,1,13,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,5,4,2,14,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,6,5,3,15,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,7,6,3,15,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,8,7,4,16,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,9,8,4,16,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,10,9,5,17,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,11,10,6,18,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,12,11,6,18,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,13,12,7,19,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,14,13,7,19,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,15,14,8,20,Player sells
+Shepherd,Expert,Emerald,Magenta Dye,16,15,9,21,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,1,0,0,12,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,2,1,0,12,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,3,2,1,13,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,4,3,1,13,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,5,4,2,14,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,6,5,3,15,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,7,6,3,15,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,8,7,4,16,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,9,8,4,16,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,10,9,5,17,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,11,10,6,18,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,12,11,6,18,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,13,12,7,19,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,14,13,7,19,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,15,14,8,20,Player sells
+Shepherd,Expert,Emerald,Cyan Dye,16,15,9,21,Player sells
+Shepherd,Expert,Banner,Emerald,1,0,0,3,Player buys
+Shepherd,Expert,Banner,Emerald,2,1,0,3,Player buys
+Shepherd,Expert,Banner,Emerald,3,2,0,3,Player buys
+Shepherd,Expert,Banner,Emerald,4,3,0,3,Player buys
+Shepherd,Expert,Banner,Emerald,5,4,0,3,Player buys
+Shepherd,Expert,Banner,Emerald,6,5,0,3,Player buys
+Shepherd,Expert,Banner,Emerald,7,6,0,3,Player buys
+Shepherd,Expert,Banner,Emerald,8,7,1,4,Player buys
+Shepherd,Expert,Banner,Emerald,9,8,1,4,Player buys
+Shepherd,Expert,Banner,Emerald,10,9,1,4,Player buys
+Shepherd,Expert,Banner,Emerald,11,10,1,4,Player buys
+Shepherd,Expert,Banner,Emerald,12,11,1,4,Player buys
+Shepherd,Master,Painting,Emerald,1,0,0,2,Player buys
+Shepherd,Master,Painting,Emerald,2,1,0,2,Player buys
+Shepherd,Master,Painting,Emerald,3,2,0,2,Player buys
+Shepherd,Master,Painting,Emerald,4,3,0,2,Player buys
+Shepherd,Master,Painting,Emerald,5,4,0,2,Player buys
+Shepherd,Master,Painting,Emerald,6,5,0,2,Player buys
+Shepherd,Master,Painting,Emerald,7,6,0,2,Player buys
+Shepherd,Master,Painting,Emerald,8,7,0,2,Player buys
+Shepherd,Master,Painting,Emerald,9,8,0,2,Player buys
+Shepherd,Master,Painting,Emerald,10,9,0,2,Player buys
+Shepherd,Master,Painting,Emerald,11,10,1,3,Player buys
+Shepherd,Master,Painting,Emerald,12,11,1,3,Player buys
+Toolsmith,Novice,Emerald,Coal,1,0,0,15,Player sells
+Toolsmith,Novice,Emerald,Coal,2,1,0,15,Player sells
+Toolsmith,Novice,Emerald,Coal,3,2,1,16,Player sells
+Toolsmith,Novice,Emerald,Coal,4,3,2,17,Player sells
+Toolsmith,Novice,Emerald,Coal,5,4,3,18,Player sells
+Toolsmith,Novice,Emerald,Coal,6,5,3,18,Player sells
+Toolsmith,Novice,Emerald,Coal,7,6,4,19,Player sells
+Toolsmith,Novice,Emerald,Coal,8,7,5,20,Player sells
+Toolsmith,Novice,Emerald,Coal,9,8,6,21,Player sells
+Toolsmith,Novice,Emerald,Coal,10,9,6,21,Player sells
+Toolsmith,Novice,Emerald,Coal,11,10,7,22,Player sells
+Toolsmith,Novice,Emerald,Coal,12,11,8,23,Player sells
+Toolsmith,Novice,Emerald,Coal,13,12,9,24,Player sells
+Toolsmith,Novice,Emerald,Coal,14,13,9,24,Player sells
+Toolsmith,Novice,Emerald,Coal,15,14,10,25,Player sells
+Toolsmith,Novice,Emerald,Coal,16,15,11,26,Player sells
+Toolsmith,Novice,Stone Axe,Emerald,1,0,0,1,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,2,1,0,1,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,3,2,0,1,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,4,3,0,1,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,5,4,0,1,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,6,5,1,2,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,7,6,1,2,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,8,7,1,2,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,9,8,1,2,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,10,9,1,2,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,11,10,2,3,Player buys
+Toolsmith,Novice,Stone Axe,Emerald,12,11,2,3,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,1,0,0,1,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,2,1,0,1,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,3,2,0,1,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,4,3,0,1,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,5,4,0,1,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,6,5,1,2,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,7,6,1,2,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,8,7,1,2,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,9,8,1,2,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,10,9,1,2,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,11,10,2,3,Player buys
+Toolsmith,Novice,Stone Shovel,Emerald,12,11,2,3,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,1,0,0,1,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,2,1,0,1,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,3,2,0,1,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,4,3,0,1,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,5,4,0,1,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,6,5,1,2,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,7,6,1,2,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,8,7,1,2,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,9,8,1,2,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,10,9,1,2,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,11,10,2,3,Player buys
+Toolsmith,Novice,Stone Pickaxe,Emerald,12,11,2,3,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,1,0,0,1,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,2,1,0,1,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,3,2,0,1,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,4,3,0,1,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,5,4,0,1,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,6,5,1,2,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,7,6,1,2,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,8,7,1,2,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,9,8,1,2,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,10,9,1,2,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,11,10,2,3,Player buys
+Toolsmith,Novice,Stone Hoe,Emerald,12,11,2,3,Player buys
+Toolsmith,Apprentice,Emerald,Iron Ingot,1,0,0,4,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,2,1,0,4,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,3,2,0,4,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,4,3,0,4,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,5,4,0,4,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,6,5,1,5,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,7,6,1,5,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,8,7,1,5,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,9,8,1,5,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,10,9,1,5,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,11,10,2,6,Player sells
+Toolsmith,Apprentice,Emerald,Iron Ingot,12,11,2,6,Player sells
+Toolsmith,Apprentice,Bell,Emerald,1,0,0,36,Player buys
+Toolsmith,Apprentice,Bell,Emerald,2,1,7,43,Player buys
+Toolsmith,Apprentice,Bell,Emerald,3,2,14,50,Player buys
+Toolsmith,Apprentice,Bell,Emerald,4,3,21,57,Player buys
+Toolsmith,Apprentice,Bell,Emerald,5,4,28,64,Player buys
+Toolsmith,Apprentice,Bell,Emerald,6,5,36,72,Player buys
+Toolsmith,Apprentice,Bell,Emerald,7,6,43,79,Player buys
+Toolsmith,Apprentice,Bell,Emerald,8,7,50,86,Player buys
+Toolsmith,Apprentice,Bell,Emerald,9,8,57,93,Player buys
+Toolsmith,Apprentice,Bell,Emerald,10,9,64,100,Player buys
+Toolsmith,Apprentice,Bell,Emerald,11,10,72,108,Player buys
+Toolsmith,Apprentice,Bell,Emerald,12,11,79,115,Player buys
+Toolsmith,Journeyman,Emerald,Flint,1,0,0,30,Player sells
+Toolsmith,Journeyman,Emerald,Flint,2,1,1,31,Player sells
+Toolsmith,Journeyman,Emerald,Flint,3,2,3,33,Player sells
+Toolsmith,Journeyman,Emerald,Flint,4,3,4,34,Player sells
+Toolsmith,Journeyman,Emerald,Flint,5,4,6,36,Player sells
+Toolsmith,Journeyman,Emerald,Flint,6,5,7,37,Player sells
+Toolsmith,Journeyman,Emerald,Flint,7,6,9,39,Player sells
+Toolsmith,Journeyman,Emerald,Flint,8,7,10,40,Player sells
+Toolsmith,Journeyman,Emerald,Flint,9,8,12,42,Player sells
+Toolsmith,Journeyman,Emerald,Flint,10,9,13,43,Player sells
+Toolsmith,Journeyman,Emerald,Flint,11,10,15,45,Player sells
+Toolsmith,Journeyman,Emerald,Flint,12,11,16,46,Player sells
+Toolsmith,Journeyman,Enchanted Iron Axe,Emerald,1,0,0,13,Player buys
+Toolsmith,Journeyman,Enchanted Iron Axe,Emerald,2,1,2,15,Player buys
+Toolsmith,Journeyman,Enchanted Iron Axe,Emerald,3,2,5,18,Player buys
+Toolsmith,Journeyman,Enchanted Iron Shovel,Emerald,1,0,0,14,Player buys
+Toolsmith,Journeyman,Enchanted Iron Shovel,Emerald,2,1,2,16,Player buys
+Toolsmith,Journeyman,Enchanted Iron Shovel,Emerald,3,2,5,19,Player buys
+Toolsmith,Journeyman,Enchanted Iron Pickaxe,Emerald,1,0,0,15,Player buys
+Toolsmith,Journeyman,Enchanted Iron Pickaxe,Emerald,2,1,3,18,Player buys
+Toolsmith,Journeyman,Enchanted Iron Pickaxe,Emerald,3,2,6,21,Player buys
+Toolsmith,Journeyman,Diamond Hoe,Emerald,1,0,0,4,Player buys
+Toolsmith,Journeyman,Diamond Hoe,Emerald,2,1,0,4,Player buys
+Toolsmith,Journeyman,Diamond Hoe,Emerald,3,2,1,5,Player buys
+Toolsmith,Expert,Emerald,Diamond,1,0,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,2,1,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,3,2,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,4,3,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,5,4,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,6,5,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,7,6,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,8,7,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,9,8,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,10,9,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,11,10,0,1,Player sells
+Toolsmith,Expert,Emerald,Diamond,12,11,0,1,Player sells
+Toolsmith,Expert,Enchanted Diamond Axe,Emerald,1,0,0,24,Player buys
+Toolsmith,Expert,Enchanted Diamond Axe,Emerald,2,1,4,28,Player buys
+Toolsmith,Expert,Enchanted Diamond Axe,Emerald,3,2,9,33,Player buys
+Toolsmith,Expert,Enchanted Diamond Shovel,Emerald,1,0,0,17,Player buys
+Toolsmith,Expert,Enchanted Diamond Shovel,Emerald,2,1,3,20,Player buys
+Toolsmith,Expert,Enchanted Diamond Shovel,Emerald,3,2,6,23,Player buys
+Toolsmith,Master,Enchanted Diamond Pickaxe,Emerald,1,0,0,25,Player buys
+Toolsmith,Master,Enchanted Diamond Pickaxe,Emerald,2,1,5,30,Player buys
+Toolsmith,Master,Enchanted Diamond Pickaxe,Emerald,3,2,10,35,Player buys
+Weaponsmith,Novice,Emerald,Coal,1,0,0,15,Player sells
+Weaponsmith,Novice,Emerald,Coal,2,1,0,15,Player sells
+Weaponsmith,Novice,Emerald,Coal,3,2,1,16,Player sells
+Weaponsmith,Novice,Emerald,Coal,4,3,2,17,Player sells
+Weaponsmith,Novice,Emerald,Coal,5,4,3,18,Player sells
+Weaponsmith,Novice,Emerald,Coal,6,5,3,18,Player sells
+Weaponsmith,Novice,Emerald,Coal,7,6,4,19,Player sells
+Weaponsmith,Novice,Emerald,Coal,8,7,5,20,Player sells
+Weaponsmith,Novice,Emerald,Coal,9,8,6,21,Player sells
+Weaponsmith,Novice,Emerald,Coal,10,9,6,21,Player sells
+Weaponsmith,Novice,Emerald,Coal,11,10,7,22,Player sells
+Weaponsmith,Novice,Emerald,Coal,12,11,8,23,Player sells
+Weaponsmith,Novice,Emerald,Coal,13,12,9,24,Player sells
+Weaponsmith,Novice,Emerald,Coal,14,13,9,24,Player sells
+Weaponsmith,Novice,Emerald,Coal,15,14,10,25,Player sells
+Weaponsmith,Novice,Emerald,Coal,16,15,11,26,Player sells
+Weaponsmith,Novice,Iron Axe,Emerald,1,0,0,3,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,2,1,0,3,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,3,2,1,4,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,4,3,1,4,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,5,4,2,5,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,6,5,3,6,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,7,6,3,6,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,8,7,4,7,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,9,8,4,7,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,10,9,5,8,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,11,10,6,9,Player buys
+Weaponsmith,Novice,Iron Axe,Emerald,12,11,6,9,Player buys
+Weaponsmith,Novice,Enchanted Iron Sword,Emerald,1,0,0,14,Player buys
+Weaponsmith,Novice,Enchanted Iron Sword,Emerald,2,1,0,14,Player buys
+Weaponsmith,Novice,Enchanted Iron Sword,Emerald,3,2,1,15,Player buys
+Weaponsmith,Apprentice,Emerald,Iron Ingot,1,0,0,4,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,2,1,0,4,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,3,2,0,4,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,4,3,0,4,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,5,4,0,4,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,6,5,1,5,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,7,6,1,5,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,8,7,1,5,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,9,8,1,5,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,10,9,1,5,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,11,10,2,6,Player sells
+Weaponsmith,Apprentice,Emerald,Iron Ingot,12,11,2,6,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,1,0,0,24,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,2,1,1,25,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,3,2,2,26,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,4,3,3,27,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,5,4,4,28,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,6,5,6,30,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,7,6,7,31,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,8,7,8,32,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,9,8,9,33,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,10,9,10,34,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,11,10,12,36,Player sells
+Weaponsmith,Journeyman,Emerald,Flint,12,11,13,37,Player sells
+Weaponsmith,Expert,Emerald,Diamond,1,0,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,2,1,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,3,2,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,4,3,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,5,4,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,6,5,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,7,6,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,8,7,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,9,8,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,10,9,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,11,10,0,1,Player sells
+Weaponsmith,Expert,Emerald,Diamond,12,11,0,1,Player sells
+Weaponsmith,Expert,Enchanted Diamond Axe,Emerald,1,0,0,24,Player buys
+Weaponsmith,Expert,Enchanted Diamond Axe,Emerald,2,1,4,28,Player buys
+Weaponsmith,Expert,Enchanted Diamond Axe,Emerald,3,2,9,33,Player buys
+Weaponsmith,Master,Enchanted Diamond Sword,Emerald,1,0,0,20,Player buys
+Weaponsmith,Master,Enchanted Diamond Sword,Emerald,2,1,4,24,Player buys
+Weaponsmith,Master,Enchanted Diamond Sword,Emerald,3,2,8,28,Player buys
